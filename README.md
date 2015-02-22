@@ -1,10 +1,12 @@
 # awesome-space-books
-A curated list of space exploration resources (born at https://meta.space.stackexchange.com/q/249/168)
+A curated list of space exploration resources (born at https://meta.space.stackexchange.com/q/249/168).
+
+This list includes links/citations books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan).
 
 ## License
 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
 
-## Contributors
+##Contributors
 [The full list of contributors at Space Exploration StackExchange](https://meta.space.stackexchange.com/posts/250/revisions)
 
 ##Reference books
