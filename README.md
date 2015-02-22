@@ -104,6 +104,10 @@ Liquid Rocket Propellants][5]
 * Harry McSween and Gary Huss, Cosmochemistry
 * Paul Schenk, Atlas of the Galilean Satellites
 
+##Miscellaneous
+* [NASA NTRS papers of interest](https://github.com/Hunter-Github/awesome-space-books/blob/master/NTRS.md)
+* [Videos](https://github.com/Hunter-Github/awesome-space-books/blob/master/Videos.md)
+
 <!-- Mars collection from NASA HQ
 
 
