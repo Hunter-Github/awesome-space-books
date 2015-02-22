@@ -107,6 +107,7 @@ Liquid Rocket Propellants][5]
 ##Miscellaneous
 * [NASA NTRS papers of interest](https://github.com/Hunter-Github/awesome-space-books/blob/master/NTRS.md)
 * [Videos](https://github.com/Hunter-Github/awesome-space-books/blob/master/Videos.md)
+* [Alcubierre drive](https://github.com/Hunter-Github/awesome-space-books/blob/master/Alcubierre.md)
 
 <!-- Mars collection from NASA HQ
 
