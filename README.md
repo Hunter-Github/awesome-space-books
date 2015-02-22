@@ -53,7 +53,7 @@ A curated list of space exploration resources (born at https://meta.space.stacke
 
 * *AIAA Journal of Guidance, Control and Dynamics*
 * *AIAA Journal of Spacecraft and Rockets*
-* *Icarus* <!-- Not sure it belongs here. -->
+* *Icarus*
 * *Journal of the Astronautical Sciences*
 * *Planetary and Space Science*
 * *Acta Astronautica*
