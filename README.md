@@ -73,6 +73,7 @@ Liquid Rocket Propellants][5]
 * Tom Wolfe. The Right Stuff. 1979.
 * [Apollo manuals](http://www.ibiblio.org/apollo/links.html) from Ron Burkey.
 * [Stages to Saturn](http://www.ibiblio.org/apollo/Documents/StagesToSaturn-Bilstein.pdf), Roger E. Bilstein. 1980.
+* [Taming Liquid Hydrogen: The Centaur Upper Stage Rocket, 1958-2002](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040084080.pdf) (Warning: 320.5 MB PDF!)
 * [A brief history of the DoD space test program](http://web.archive.org/web/20110419192350/http://astronautix.com/data/93dodstp.pdf), ANSER, 1993.
 
 <hr/>
