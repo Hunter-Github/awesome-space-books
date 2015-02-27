@@ -39,6 +39,7 @@ This list includes links/citations for books and other resources that are deemed
 * **[NASA STD-3001 Vol.1 Crew Health](https://standards.nasa.gov/documents/viewdoc/3315622/3315622)** as of 2014-07-30
 * **[NASA STD-3001 Vol.2 Human Factors, Habitability and Environmental Health](https://standards.nasa.gov/documents/viewdoc/3315785/3315785)** as of 2011-01-10
 * **Space Psychology and Psychiatry**. Nick Kanas, Dietrich Manzey. Springer/Microcosm. 2008.
+* **Fundamentals of Space Medicine**.  Gilles Clément.Springer, 2005.
 * [**NASA Human-rating standards**](http://nodis3.gsfc.nasa.gov/npg_img/N_PR_8705_002B_/N_PR_8705_002B_.pdf) (2012 revision).
 
 <hr/>
