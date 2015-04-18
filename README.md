@@ -81,10 +81,10 @@ Liquid Rocket Propellants][5]
 
 ##Nonfiction and activity space books for children
 
-* (age 4-8) Brian Floc: *Moonshot: The Flight of Apollo 11* (48 pages)
+* (age 4-8) Brian Floca: *Moonshot: The Flight of Apollo 11* NY : Atheneum Books for Young Readers, 2009. (48 pages) ISBN 9781416950462
 * (age 5-7) Martha E. H. Rustad: *The Exploring Space* (6 x 24 pages)
 * Linda McReynolds: *Eight Days Gone* (48 pages, 2012) ISBN 9781580893640.
-* (age 7-11) Raman Prinja: *Universe Rocks* (4 x 32 pages, 2012) ISBN  	9781848359345.
+* (age 7-11) Raman Prinja: *Universe Rocks* (4 x 32 pages, 2012) ISBN 9781848359345.
 * Elise Gravel: *Blast off with Doodle Tom* (96 pages)
 * (age 8-10) Heinemann-Raintree (publisher): *Astronaut Travel Guides* (8 x 48 pages)
 * (age 9+) Mark Brake, Nishant Choksi: *Really, Really Big Questions about Space and Time* (64 pages)
