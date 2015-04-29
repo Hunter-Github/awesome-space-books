@@ -20,8 +20,8 @@ This list includes links/citations for books and other resources that are deemed
 * **Spacecraft-Environment Interactions**. Daniel Hastings & Henry Garrett. Cambridge Univ.Press, 1996.
 * **Hypersonic aerothermodynamics**. John J. Bertin. AIAA, 1994.
 * **Modeling and Simulation of Aerospace Vehicle Dynamics**. (2nd ed.). Peter H. Zipfel. AIAA, 2007.
-* **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009.
-* **Modern Engineering for Design of Liquid-Propellant Rocket Engines**. Dieter K. Huzel and David H. Huang. AIAA, 1992.
+* **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009. ISBN [9783540729426](https://www.worldcat.org/title/deep-space-flight-and-communications-exploiting-the-sun-as-a-gravitational-lens/oclc/370736749)
+* **Modern Engineering for Design of Liquid-Propellant Rocket Engines**. Dieter K. Huzel and David H. Huang. [AIAA, 1992](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825).
 * **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA<br />[Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
 * **Mechanics and Thermodynamics of Propulsion**. P. Hill, C. Peterson. Addison-Wesley, 1992
 * **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001
