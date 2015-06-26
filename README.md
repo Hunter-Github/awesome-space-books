@@ -285,7 +285,7 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 
 An infographic from Randall Munroe (XKCD):
 
-[!Copyright XKCD](https://imgs.xkcd.com/comics/payloads_large.png)
+[![Copyright XKCD](https://imgs.xkcd.com/comics/payloads_large.png)](https://imgs.xkcd.com/comics/payloads_large.png)
 
 
 ## Where to look for other awesome lists
