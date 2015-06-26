@@ -11,19 +11,19 @@ This list includes links/citations for books and other resources that are deemed
 
 ## GitHub lists on space sciences and technology
 
-* [awesome-space](https://github.com/elburz/awesome-space)
+* [awesome-space](https://github.com/elburz/awesome-space) - links to online resources.
 
 ## Reference books
 
-* **Space Mission Analysis and Design**. W. J. Larson and J. R. Wertz (Editors). Microcosm Press, 1999.
-* **Space Vehicle Dynamics and Control**. Bong Wie. AIAA, 1998.
-* **Spacecraft Thermal Control Handbook: Vol.1 Fundamental Technologies**. David G. Gilmore (ed.) AIAA, 2002.
-* **Space Systems Failures**. Harland, Shayler, Lorenz. 2005.
-* **Space Debris: Models and Risk Analysis**. Heinrich Klinkrad. 2006.
-* **Orbit and Constellation Design and Management**. J.R. Wertz. Microcosm, 2001.
-* **Spacecraft-Environment Interactions**. Daniel Hastings & Henry Garrett. Cambridge Univ.Press, 1996.
-* **Hypersonic aerothermodynamics**. John J. Bertin. AIAA, 1994.
-* **Modeling and Simulation of Aerospace Vehicle Dynamics**. (2nd ed.). Peter H. Zipfel. AIAA, 2007.
+* **Space Mission Analysis and Design**. W. J. Larson and J. R. Wertz (Editors). Microcosm Press, 1999. ISBN [9780792359012](http://www.worldcat.org/title/space-mission-analysis-and-design/oclc/42703668&referer=brief_results)
+* **Space Vehicle Dynamics and Control**. Bong Wie. AIAA, 1998. ISBN [9781615830442](https://www.worldcat.org/title/space-vehicle-dynamics-and-control/oclc/435623651)
+* **Spacecraft Thermal Control Handbook: Vol.1 Fundamental Technologies**. David G. Gilmore (ed.) AIAA, 2002. ISBN [9781884989117](https://www.worldcat.org/title/spacecraft-thermal-control-handbook-vol-1-fundamental-technologies/oclc/254064653)
+* **Space Systems Failures**. Harland, Shayler, Lorenz. 2005. ISBN [9780387215198](https://www.worldcat.org/title/space-systems-failures-diesasters-and-rescues-of-satellites-rocket-and-space-probes/oclc/226200132)
+* **Space Debris: Models and Risk Analysis**. Heinrich Klinkrad. 2006. ISBN [ 	9783540376743](https://www.worldcat.org/title/space-debris-models-and-risk-analysis/oclc/262691812)
+* **Orbit and Constellation Design and Management**. J.R. Wertz. Microcosm, 2001. ISBN [9781881883074](https://www.worldcat.org/title/orbit-constellation-design-management-spacecraft-orbit-and-attitude-systems/oclc/792963766)
+* **Spacecraft-Environment Interactions**. Daniel Hastings & Henry Garrett. Cambridge Univ.Press, 1996. ISBN [9780521471282](https://www.worldcat.org/title/spacecraft-environment-interactions/oclc/33405338)
+* **Hypersonic aerothermodynamics**. John J. Bertin. AIAA, 1994. ISBN [9781601191984](https://www.worldcat.org/title/hypersonic-aerothermodynamics/oclc/123537628)
+* **Modeling and Simulation of Aerospace Vehicle Dynamics**. (2nd ed.). Peter H. Zipfel. AIAA, 2007 ISBN [9781601195395](https://www.worldcat.org/title/modeling-and-simulation-of-aerospace-vehicle-dynamics/oclc/223986238)
 * **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009. ISBN [9783540729426](https://www.worldcat.org/title/deep-space-flight-and-communications-exploiting-the-sun-as-a-gravitational-lens/oclc/370736749)
 * **Modern Engineering for Design of Liquid-Propellant Rocket Engines**. Dieter K. Huzel and David H. Huang. [AIAA, 1992](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825).
 * **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA<br />[Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
