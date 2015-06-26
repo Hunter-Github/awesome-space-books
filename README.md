@@ -283,7 +283,7 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 * [Falcon 9](http://decadal.gsfc.nasa.gov/pace-201206mdl/Launch%20Vehicle%20Information/Falcon9UsersGuide_2009.pdf)
 * [Epsilon] (a Japanese proto-ICBM).
 
-An infographic from Randall Munroe (XKCD):
+An infographic from Randall Munroe (Copyright XKCD):
 
 [![Copyright XKCD](https://imgs.xkcd.com/comics/payloads_large.png)](https://imgs.xkcd.com/comics/payloads_large.png)
 
