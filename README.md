@@ -6,10 +6,14 @@ This list includes links/citations for books and other resources that are deemed
 ## License
 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
 
-##Contributors
+## Contributors
 [The full list of contributors at Space Exploration StackExchange](https://meta.space.stackexchange.com/posts/250/revisions)
 
-##Reference books
+## GitHub lists on space sciences and technology
+
+* [awesome-space](https://github.com/elburz/awesome-space)
+
+## Reference books
 
 * **Space Mission Analysis and Design**. W. J. Larson and J. R. Wertz (Editors). Microcosm Press, 1999.
 * **Space Vehicle Dynamics and Control**. Bong Wie. AIAA, 1998.
