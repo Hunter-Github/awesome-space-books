@@ -248,7 +248,7 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 
 -->
 
-# Where to look for other awesome lists
+## Where to look for other awesome lists
 
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
