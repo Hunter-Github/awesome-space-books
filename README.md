@@ -244,6 +244,10 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 
 -->
 
+# Where to look for other awesome lists
+
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
   [1]: http://www.nasa.gov/connect/ebooks/coming_home_detail.html
   [2]: http://web.mit.edu/e_peters/Public/Rockets/Rocket_Propulsion_Elements.pdf
