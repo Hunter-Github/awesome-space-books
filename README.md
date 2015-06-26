@@ -32,7 +32,7 @@ This list includes links/citations for books and other resources that are deemed
 <br />[Free PDF from MIT][2]  
 * **Dynamical Systems, the Three-Body Problem and Space Mission Design**, Koon, Lo, Marsden & Ross, 2006  
 [Free PDF form Caltech][3]
-* **Statistical Orbit Determination**. B.D. Tapley, B.E. Schutz, G.H. Born. New York, Elsevier, 2004.
+* **Statistical Orbit Determination**. B.D. Tapley, B.E. Schutz, G.H. Born. New York, Elsevier, 2004. ISBN [9780080541730](https://www.worldcat.org/title/statistical-orbit-determination/oclc/162577113)
 * **Spacecraft Operations**. Thomas Uhlig, Florian Sellmaier, Michael Schmidhuber. Springer, 2014. ISBN [9783709118023](https://www.worldcat.org/title/spacecraft-operations/oclc/889584467)
 
 <hr/>
