@@ -254,7 +254,7 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 
 ## The list of (historical and current) launch vehicle user manuals
 
-* [Saturn V]
+* [Saturn V](http://history.nasa.gov/ap08fj/pdf/sa503-flightmanual.pdf) (SA-503 **flight** manual)
 * [Energiya]
 * [Delta 2](http://www.ulalaunch.com/uploads/docs/DeltaIIPayloadPlannersGuide2007.pdf)
 * [Delta 4](http://www.ulalaunch.com/uploads/docs/Launch_Vehicles/Delta_IV_Users_Guide_June_2013.pdf)
