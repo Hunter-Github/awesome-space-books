@@ -11,19 +11,19 @@ Interesting reports from the [NASA](http://www.nasa.gov/) [NTRS collection](http
 * [Flight-test results from supersonic deployment of an 18-foot-diameter (s.49-meter) towed ballute decelerator](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19690017080_1969017080.pdf)
 * [Integration of Tools for the Design and Assessment of High-Performance, Highly Reliable Computing Systems (DAHPHRS) Phase 1](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19920019342_1992019342.pdf)
 * [Electron Beam Freeform Fabrication for Cost Effective Near-Net Shape Manufacturing](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080013538_2008013396.pdf)
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20000096503_2000138021.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19740075942_1974075942.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20070030933.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19940004970_1994004970.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090016290_2009014409.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090026451.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110005504_2011003160.pdf
+* [Nuclear Pulse Propulsion Orion and Beyond](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20000096503_2000138021.pdf)
+* **DELETED FROM PUBLIC ACCESS** (http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19740075942_1974075942.pdf)
+* [Experimental Study of an Axisymmetric Dual Throat Fluidic Thrust Vectoring Nozzle for Supersonic Aircraft Application](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20070030933.pdf)
+* **DELETED FROM PUBLIC ACCESS** Utilization of the external tanks of the space transportation system (http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19940004970_1994004970.pdf)
+* [Apollo Guidance, Navigation, and Control (GNC) Hardware Overview](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090016290_2009014409.pdf)
+* [Apollo 13 Guidance, Navigation, and Control Challenges](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090026451.pdf)
+* [Advanced Space Fission Propulsion Systems](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110005504_2011003160.pdf)
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19940017339_1994017339.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080012680_2008012531.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20070004584_2007003787.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19860003843_1986003843.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790020032_1979020032.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19660013620_1966013620.pdf
+* [Chariots for Apollo](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790020032_1979020032.pdf) (201 MB!)
+* **DELETED FROM PUBLIC ACCESS** (http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19660013620_1966013620.pdf)
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19740004402_1974004402.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100002892_2010002348.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110008387_2011001681.pdf
@@ -76,7 +76,7 @@ Interesting reports from the [NASA](http://www.nasa.gov/) [NTRS collection](http
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110002949_2010032794.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19950009355_1995109355.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090005995_2009004918.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790072165_1979072165.pdf
+* **DELETED FROM PUBLIC ACCESS** Manned Venus Flyby study (http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790072165_1979072165.pdf)
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20020023715_2002020160.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080012609_2008011137.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100011002_2010011954.pdf
@@ -85,8 +85,8 @@ Interesting reports from the [NASA](http://www.nasa.gov/) [NTRS collection](http
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19870007369_1987007369.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100003846_2010003506.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040182399_2004178448.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19680012569_1968012569.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19770069903_1977069903.pdf
+* **DELETED FROM PUBLIC ACCESS** (http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19680012569_1968012569.pdf)
+* **DELETED FROM PUBLIC ACCESS** (http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19770069903_1977069903.pdf)
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030014643_2003016789.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040182399_2004178448.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20060051740_2006253215.pdf
