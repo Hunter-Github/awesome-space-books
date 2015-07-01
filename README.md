@@ -294,7 +294,7 @@ An infographic from Randall Munroe (Copyright XKCD):
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
   [1]: http://www.nasa.gov/connect/ebooks/coming_home_detail.html
-  [2]: http://web.mit.edu/e_peters/Public/Rockets/Rocket_Propulsion_Elements.pdf
+  [2]: https://web.archive.org/web/20140722111108/http://web.mit.edu/e_peters/Public/Rockets/Rocket_Propulsion_Elements.pdf
   [3]: http://www.cds.caltech.edu/~koon/book/KoLoMaRo_DMissionBk.pdf
   [4]: http://www.risacher.org/rocket/
   [5]: http://library.sciencemadness.org/library/books/ignition.pdf
