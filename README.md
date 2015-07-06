@@ -1,7 +1,7 @@
 # awesome-space-books
 A curated list of space exploration resources (born at https://meta.space.stackexchange.com/q/249/168).
 
-![](https://github.com/Hunter-Github/awesome-space-books/online.svg)
+<!-- ![Paper](https://i.imgur.com/ta5hG2d.png)-->
 
 This list includes links/citations for books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan).
 
@@ -28,11 +28,11 @@ This list includes links/citations for books and other resources that are deemed
 * **Modeling and Simulation of Aerospace Vehicle Dynamics**. (2nd ed.). Peter H. Zipfel. AIAA, 2007 ISBN [9781601195395](https://www.worldcat.org/title/modeling-and-simulation-of-aerospace-vehicle-dynamics/oclc/223986238)
 * **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009. ISBN [9783540729426](https://www.worldcat.org/title/deep-space-flight-and-communications-exploiting-the-sun-as-a-gravitational-lens/oclc/370736749)
 * **Modern Engineering for Design of Liquid-Propellant Rocket Engines**. Dieter K. Huzel and David H. Huang. [AIAA, 1992](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825).
-* **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA<br />[Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA<br />[Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
 * **Mechanics and Thermodynamics of Propulsion**. P. Hill, C. Peterson. Addison-Wesley, 1992
-* **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001
 <br />[Free PDF from MIT][2]  
-* **Dynamical Systems, the Three-Body Problem and Space Mission Design**, Koon, Lo, Marsden & Ross, 2006  
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Dynamical Systems, the Three-Body Problem and Space Mission Design**, Koon, Lo, Marsden & Ross, 2006  
 [Free PDF form Caltech][3]
 * **Statistical Orbit Determination**. B.D. Tapley, B.E. Schutz, G.H. Born. New York, Elsevier, 2004. ISBN [9780080541730](https://www.worldcat.org/title/statistical-orbit-determination/oclc/162577113)
 * **Spacecraft Operations**. Thomas Uhlig, Florian Sellmaier, Michael Schmidhuber. Springer, 2014. ISBN [9783709118023](https://www.worldcat.org/title/spacecraft-operations/oclc/889584467)
@@ -41,13 +41,13 @@ This list includes links/citations for books and other resources that are deemed
 
 ##Manned exploration references
 
-*  **Human spaceflight : mission analysis and design**. Wiley J. Larson; Linda K. Pranke. McGraw-Hill, 2000.
-* **[Human integration design handbook](http://ston.jsc.nasa.gov/collections/TRS/_techrep/SP-2010-3407REV1.pdf)** NASA, 2010.
-* **[NASA STD-3001 Vol.1 Crew Health](https://standards.nasa.gov/documents/viewdoc/3315622/3315622)** as of 2014-07-30
-* **[NASA STD-3001 Vol.2 Human Factors, Habitability and Environmental Health](https://standards.nasa.gov/documents/viewdoc/3315785/3315785)** as of 2011-01-10
+* **Human spaceflight : mission analysis and design**. Wiley J. Larson; Linda K. Pranke. McGraw-Hill, 2000.
+* ![Online](https://i.imgur.com/BuJHYIv.png) **[Human integration design handbook](http://ston.jsc.nasa.gov/collections/TRS/_techrep/SP-2010-3407REV1.pdf)** NASA, 2010.
+* ![Online](https://i.imgur.com/BuJHYIv.png) **[NASA STD-3001 Vol.1 Crew Health](https://standards.nasa.gov/documents/viewdoc/3315622/3315622)** as of 2014-07-30
+* ![Online](https://i.imgur.com/BuJHYIv.png) **[NASA STD-3001 Vol.2 Human Factors, Habitability and Environmental Health](https://standards.nasa.gov/documents/viewdoc/3315785/3315785)** as of 2011-01-10
 * **Space Psychology and Psychiatry**. Nick Kanas, Dietrich Manzey. Springer/Microcosm. 2008.
 * **Fundamentals of Space Medicine**.  Gilles Clément.Springer, 2005.
-* [**NASA Human-rating standards**](http://nodis3.gsfc.nasa.gov/npg_img/N_PR_8705_002B_/N_PR_8705_002B_.pdf) (2012 revision).
+* ![Online](https://i.imgur.com/BuJHYIv.png) [**NASA Human-rating standards**](http://nodis3.gsfc.nasa.gov/npg_img/N_PR_8705_002B_/N_PR_8705_002B_.pdf) (2012 revision).
 
 <hr/>
 
@@ -72,17 +72,17 @@ This list includes links/citations for books and other resources that are deemed
 
 ##History books and collections
 
-* John D Clarke: [**Ignition!** An Informal History of
+* ![Online](https://i.imgur.com/BuJHYIv.png) John D Clarke: [**Ignition!** An Informal History of
 Liquid Rocket Propellants][5]
-* NASA: [Key documents in the history of space policy](http://www.hq.nasa.gov/office/pao/History/spdocs.html)
-* Boris Tchertok. Rockets and People. Vol.1: [part 1](http://history.nasa.gov/SP-4110/vol1-1.pdf), [part 2](http://history.nasa.gov/SP-4110/vol1-2.pdf), [part 3](http://history.nasa.gov/SP-4110/vol1-3.pdf). [Vol.2](http://history.nasa.gov/SP-4110/vol2.pdf) [Vol.3](http://history.nasa.gov/SP-4110/vol3.pdf) [Vol.4](http://history.nasa.gov/SP-4110/vol4.pdf)
-* NASA History Office books ([online](http://www.hq.nasa.gov/office/pao/History/series95.html))
-* Carey McCleskey. [Space Shuttle Operations and Infrastructure: A Systems Analysis of Design Root Causes and Effects](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050172128_2005171687.pdf) (2005).
+* ![Online](https://i.imgur.com/BuJHYIv.png) NASA: [Key documents in the history of space policy](http://www.hq.nasa.gov/office/pao/History/spdocs.html)
+* ![Online](https://i.imgur.com/BuJHYIv.png) Boris Tchertok. Rockets and People. Vol.1: [part 1](http://history.nasa.gov/SP-4110/vol1-1.pdf), [part 2](http://history.nasa.gov/SP-4110/vol1-2.pdf), [part 3](http://history.nasa.gov/SP-4110/vol1-3.pdf). [Vol.2](http://history.nasa.gov/SP-4110/vol2.pdf) [Vol.3](http://history.nasa.gov/SP-4110/vol3.pdf) [Vol.4](http://history.nasa.gov/SP-4110/vol4.pdf)
+* ![Online](https://i.imgur.com/BuJHYIv.png) NASA History Office books ([online](http://www.hq.nasa.gov/office/pao/History/series95.html))
+* ![Online](https://i.imgur.com/BuJHYIv.png) Carey McCleskey. [Space Shuttle Operations and Infrastructure: A Systems Analysis of Design Root Causes and Effects](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050172128_2005171687.pdf) (2005).
 * Tom Wolfe. The Right Stuff. 1979.
-* [Apollo manuals](http://www.ibiblio.org/apollo/links.html) from Ron Burkey.
-* [Stages to Saturn](http://www.ibiblio.org/apollo/Documents/StagesToSaturn-Bilstein.pdf), Roger E. Bilstein. 1980.
-* [Taming Liquid Hydrogen: The Centaur Upper Stage Rocket, 1958-2002](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040084080.pdf) (Warning: 320.5 MB PDF!)
-* [A brief history of the DoD space test program](http://web.archive.org/web/20110419192350/http://astronautix.com/data/93dodstp.pdf), ANSER, 1993.
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Apollo manuals](http://www.ibiblio.org/apollo/links.html) from Ron Burkey.
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Stages to Saturn](http://www.ibiblio.org/apollo/Documents/StagesToSaturn-Bilstein.pdf), Roger E. Bilstein. 1980.
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Taming Liquid Hydrogen: The Centaur Upper Stage Rocket, 1958-2002](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040084080.pdf) (Warning: 320.5 MB PDF!)
+* ![Online](https://i.imgur.com/BuJHYIv.png) [A brief history of the DoD space test program](http://web.archive.org/web/20110419192350/http://astronautix.com/data/93dodstp.pdf), ANSER, 1993.
 * **Project Orion : the true story of the atomic spaceship**,  George Dyson. New York : Henry Holt and Co., 2002. ISBN [0805059857](https://www.worldcat.org/title/project-orion-the-true-story-of-the-atomic-spaceship/oclc/47745832)
 
 <hr/>
