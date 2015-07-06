@@ -17,29 +17,48 @@ This list includes links/citations for books and other resources that are deemed
 
 ## Reference books
 
+### Mission analysis and design. Project management
+
 * **Space Mission Analysis and Design**. W. J. Larson and J. R. Wertz (Editors). Microcosm Press, 1999. ISBN [9780792359012](http://www.worldcat.org/title/space-mission-analysis-and-design/oclc/42703668&referer=brief_results)
-* **Space Vehicle Dynamics and Control**. Bong Wie. AIAA, 1998. ISBN [9781615830442](https://www.worldcat.org/title/space-vehicle-dynamics-and-control/oclc/435623651)
-* **Spacecraft Thermal Control Handbook: Vol.1 Fundamental Technologies**. David G. Gilmore (ed.) AIAA, 2002. ISBN [9781884989117](https://www.worldcat.org/title/spacecraft-thermal-control-handbook-vol-1-fundamental-technologies/oclc/254064653)
 * **Space Systems Failures**. Harland, Shayler, Lorenz. 2005. ISBN [9780387215198](https://www.worldcat.org/title/space-systems-failures-diesasters-and-rescues-of-satellites-rocket-and-space-probes/oclc/226200132)
-* **Space Debris: Models and Risk Analysis**. Heinrich Klinkrad. 2006. ISBN [ 	9783540376743](https://www.worldcat.org/title/space-debris-models-and-risk-analysis/oclc/262691812)
 * **Orbit and Constellation Design and Management**. J.R. Wertz. Microcosm, 2001. ISBN [9781881883074](https://www.worldcat.org/title/orbit-constellation-design-management-spacecraft-orbit-and-attitude-systems/oclc/792963766)
-* **Spacecraft-Environment Interactions**. Daniel Hastings & Henry Garrett. Cambridge Univ.Press, 1996. ISBN [9780521471282](https://www.worldcat.org/title/spacecraft-environment-interactions/oclc/33405338)
-* **Hypersonic aerothermodynamics**. John J. Bertin. AIAA, 1994. ISBN [9781601191984](https://www.worldcat.org/title/hypersonic-aerothermodynamics/oclc/123537628)
-* **Modeling and Simulation of Aerospace Vehicle Dynamics**. (2nd ed.). Peter H. Zipfel. AIAA, 2007 ISBN [9781601195395](https://www.worldcat.org/title/modeling-and-simulation-of-aerospace-vehicle-dynamics/oclc/223986238)
 * **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009. ISBN [9783540729426](https://www.worldcat.org/title/deep-space-flight-and-communications-exploiting-the-sun-as-a-gravitational-lens/oclc/370736749)
+
+### Ballistics, dynamics, and control
+
+* **Space Vehicle Dynamics and Control**. Bong Wie. AIAA, 1998. ISBN [9781615830442](https://www.worldcat.org/title/space-vehicle-dynamics-and-control/oclc/435623651)
+* **Modeling and Simulation of Aerospace Vehicle Dynamics**. (2nd ed.). Peter H. Zipfel. AIAA, 2007 ISBN [9781601195395](https://www.worldcat.org/title/modeling-and-simulation-of-aerospace-vehicle-dynamics/oclc/223986238)
+* **Statistical Orbit Determination**. B.D. Tapley, B.E. Schutz, G.H. Born. New York, Elsevier, 2004. ISBN [9780080541730](https://www.worldcat.org/title/statistical-orbit-determination/oclc/162577113)
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Dynamical Systems, the Three-Body Problem and Space Mission Design**, Koon, Lo, Marsden & Ross, 2006. [Free PDF form Caltech][3]
+
+### Propulsion
+
 * **Modern Engineering for Design of Liquid-Propellant Rocket Engines**. Dieter K. Huzel and David H. Huang. [AIAA, 1992](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825).
-* ![Online](https://i.imgur.com/BuJHYIv.png) **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA<br />[Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
 * **Mechanics and Thermodynamics of Propulsion**. P. Hill, C. Peterson. Addison-Wesley, 1992
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001
 <br />[Free PDF from MIT][2]  
-* ![Online](https://i.imgur.com/BuJHYIv.png) **Dynamical Systems, the Three-Body Problem and Space Mission Design**, Koon, Lo, Marsden & Ross, 2006  
-[Free PDF form Caltech][3]
-* **Statistical Orbit Determination**. B.D. Tapley, B.E. Schutz, G.H. Born. New York, Elsevier, 2004. ISBN [9780080541730](https://www.worldcat.org/title/statistical-orbit-determination/oclc/162577113)
+
+### Thermal control
+
+* **Spacecraft Thermal Control Handbook: Vol.1 Fundamental Technologies**. David G. Gilmore (ed.) AIAA, 2002. ISBN [9781884989117](https://www.worldcat.org/title/spacecraft-thermal-control-handbook-vol-1-fundamental-technologies/oclc/254064653)
+
+### External risks
+
+* **Space Debris: Models and Risk Analysis**. Heinrich Klinkrad. 2006. ISBN [ 	9783540376743](https://www.worldcat.org/title/space-debris-models-and-risk-analysis/oclc/262691812)
+* **Spacecraft-Environment Interactions**. Daniel Hastings & Henry Garrett. Cambridge Univ.Press, 1996. ISBN [9780521471282](https://www.worldcat.org/title/spacecraft-environment-interactions/oclc/33405338)
+
+### Reentry
+
+* **Hypersonic aerothermodynamics**. John J. Bertin. AIAA, 1994. ISBN [9781601191984](https://www.worldcat.org/title/hypersonic-aerothermodynamics/oclc/123537628)
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA<br />[Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
+
+### Operations
+
 * **Spacecraft Operations**. Thomas Uhlig, Florian Sellmaier, Michael Schmidhuber. Springer, 2014. ISBN [9783709118023](https://www.worldcat.org/title/spacecraft-operations/oclc/889584467)
 
 <hr/>
 
-##Manned exploration references
+## Manned exploration references
 
 * **Human spaceflight : mission analysis and design**. Wiley J. Larson; Linda K. Pranke. McGraw-Hill, 2000.
 * ![Online](https://i.imgur.com/BuJHYIv.png) **[Human integration design handbook](http://ston.jsc.nasa.gov/collections/TRS/_techrep/SP-2010-3407REV1.pdf)** NASA, 2010.
@@ -51,7 +70,7 @@ This list includes links/citations for books and other resources that are deemed
 
 <hr/>
 
-##Model and amateur rocketry
+## Model and amateur rocketry
 
 * **How to Design, Build and Test Small Liquid-Fueled Rocket Engines**, Leroy J. Krzycki, Rocketlab / China Lake, CA., 1967  
 [Online source][4]
@@ -59,7 +78,7 @@ This list includes links/citations for books and other resources that are deemed
 
 <hr/>
 
-##Journals
+## Journals
 
 * *AIAA Journal of Guidance, Control and Dynamics*
 * *AIAA Journal of Spacecraft and Rockets*
@@ -70,7 +89,7 @@ This list includes links/citations for books and other resources that are deemed
 
 <hr/>
 
-##History books and collections
+## History books and collections
 
 * ![Online](https://i.imgur.com/BuJHYIv.png) John D Clarke: [**Ignition!** An Informal History of
 Liquid Rocket Propellants][5]
@@ -87,7 +106,7 @@ Liquid Rocket Propellants][5]
 
 <hr/>
 
-##Nonfiction and activity space books for children
+## Nonfiction and activity space books for children
 
 * (age 4-8) Brian Floca: *Moonshot: The Flight of Apollo 11* NY : Atheneum Books for Young Readers, 2009. (48 pages) ISBN 9781416950462
 * (age 5-7) Martha E. H. Rustad: *The Exploring Space* (6 x 24 pages)
@@ -109,14 +128,14 @@ Liquid Rocket Propellants][5]
 
 <hr/>
 
-##Interdisciplinary books
+## Interdisciplinary books
 
 * Harry McSween and Gary Huss, Cosmochemistry
 * Paul Schenk, Atlas of the Galilean Satellites
 
 <hr/>
 
-##Miscellaneous
+## Miscellaneous
 * [NASA NTRS papers of interest](https://github.com/Hunter-Github/awesome-space-books/blob/master/NTRS.md)
 * [Videos](https://github.com/Hunter-Github/awesome-space-books/blob/master/Videos.md)
 * [Alcubierre drive](https://github.com/Hunter-Github/awesome-space-books/blob/master/Alcubierre.md)
