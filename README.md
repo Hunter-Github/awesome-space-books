@@ -15,18 +15,20 @@ This list includes links/citations for books and other resources that are deemed
 
 * [awesome-space](https://github.com/elburz/awesome-space) - links to online resources.
 
-<!-- MarkdownTOC -->
+## Table of contents
 
-- Reference books
-- Manned exploration references
-- Model and amateur rocketry
-- Journals
-- History books and collections
-- Nonfiction and activity space books for children
-- Interdisciplinary books
-- Miscellaneous
-- The list of (historical and current) launch vehicle user manuals
-- Where to look for other awesome lists
+<!-- MarkdownTOC  bracket=round autolink=true -->
+
+- [Reference books](#reference-books)
+- [Manned exploration references](#manned-exploration-references)
+- [Model and amateur rocketry](#model-and-amateur-rocketry)
+- [Journals](#journals)
+- [History books and collections](#history-books-and-collections)
+- [Nonfiction and activity space books for children](#nonfiction-and-activity-space-books-for-children)
+- [Interdisciplinary books](#interdisciplinary-books)
+- [Miscellaneous](#miscellaneous)
+- [The list of (historical and current) launch vehicle user manuals](#the-list-of-historical-and-current-launch-vehicle-user-manuals)
+- [Where to look for other awesome lists](#where-to-look-for-other-awesome-lists)
 
 <!-- /MarkdownTOC -->
 
