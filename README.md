@@ -15,6 +15,22 @@ This list includes links/citations for books and other resources that are deemed
 
 * [awesome-space](https://github.com/elburz/awesome-space) - links to online resources.
 
+<!-- MarkdownTOC -->
+
+- Reference books
+- Manned exploration references
+- Model and amateur rocketry
+- Journals
+- History books and collections
+- Nonfiction and activity space books for children
+- Interdisciplinary books
+- Miscellaneous
+- The list of (historical and current) launch vehicle user manuals
+- Where to look for other awesome lists
+
+<!-- /MarkdownTOC -->
+
+
 ## Reference books
 
 ### Mission analysis and design. Project management
