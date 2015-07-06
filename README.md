@@ -1,6 +1,8 @@
 # awesome-space-books
 A curated list of space exploration resources (born at https://meta.space.stackexchange.com/q/249/168).
 
+![](https://github.com/Hunter-Github/awesome-space-books/online.svg)
+
 This list includes links/citations for books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan).
 
 ## License
