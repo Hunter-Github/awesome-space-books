@@ -98,12 +98,12 @@ This list includes links/citations for books and other resources that are deemed
 
 ## Journals
 
-* *AIAA Journal of Guidance, Control and Dynamics*
-* *AIAA Journal of Spacecraft and Rockets*
-* *Icarus*
-* *Journal of the Astronautical Sciences*
-* *Planetary and Space Science*
-* *Acta Astronautica*
+* *[AIAA Journal of Guidance, Control and Dynamics](http://arc.aiaa.org/loi/jgcd)*
+* *[AIAA Journal of Spacecraft and Rockets](http://arc.aiaa.org/loi/jsr)*
+* *[Icarus](http://www.sciencedirect.com/science/journal/00191035)*
+* *[Journal of the Astronautical Sciences](http://link.springer.com/journal/40295)*
+* *[Planetary and Space Science](http://www.journals.elsevier.com/planetary-and-space-science/)*
+* *[Acta Astronautica](http://www.sciencedirect.com/science/journal/00945765)*
 
 <hr/>
 
