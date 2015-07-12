@@ -72,7 +72,7 @@ This list includes links/citations for books and other resources that are deemed
 
 ### Operations
 
-* ![](https://coverart.oclc.org/ImageWebSvc/oclc/+-+219930433_140.jpg) **Spacecraft Operations**. Thomas Uhlig, Florian Sellmaier, Michael Schmidhuber. Springer, 2014. ISBN [9783709118023](https://www.worldcat.org/title/spacecraft-operations/oclc/889584467)
+* **Spacecraft Operations**. Thomas Uhlig, Florian Sellmaier, Michael Schmidhuber. Springer, 2014. ISBN [9783709118023](https://www.worldcat.org/title/spacecraft-operations/oclc/889584467)
 
 <hr/>
 
