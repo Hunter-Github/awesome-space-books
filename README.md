@@ -60,6 +60,10 @@ This list includes links/citations for books and other resources that are deemed
 
 * **Spacecraft Thermal Control Handbook: Vol.1 Fundamental Technologies**. David G. Gilmore (ed.) AIAA, 2002. ISBN [9781884989117](https://www.worldcat.org/title/spacecraft-thermal-control-handbook-vol-1-fundamental-technologies/oclc/254064653)
 
+### Communications
+
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Deep Space Optical Communications**. Ed.by Hamid Hemmati. JPL, 2005. [Available online at JPL](http://descanso.jpl.nasa.gov/monograph/series7/Descanso_7_Full_Version+.pdf)
+
 ### External risks
 
 * **Space Debris: Models and Risk Analysis**. Heinrich Klinkrad. 2006. ISBN [ 	9783540376743](https://www.worldcat.org/title/space-debris-models-and-risk-analysis/oclc/262691812)
