@@ -53,8 +53,7 @@ This list includes links/citations for books and other resources that are deemed
 
 * **Modern Engineering for Design of Liquid-Propellant Rocket Engines**. Dieter K. Huzel and David H. Huang. [AIAA, 1992](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825).
 * **Mechanics and Thermodynamics of Propulsion**. P. Hill, C. Peterson. Addison-Wesley, 1992
-* ![Online](https://i.imgur.com/BuJHYIv.png) **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001
-<br />[Free PDF from MIT][2]  
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001 [Free PDF from MIT][2]  
 
 ### Thermal control
 
@@ -72,7 +71,7 @@ This list includes links/citations for books and other resources that are deemed
 ### Reentry
 
 * **Hypersonic aerothermodynamics**. John J. Bertin. AIAA, 1994. ISBN [9781601191984](https://www.worldcat.org/title/hypersonic-aerothermodynamics/oclc/123537628)
-* ![Online](https://i.imgur.com/BuJHYIv.png) **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA<br />[Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA [Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
 
 ### Operations
 
@@ -94,8 +93,7 @@ This list includes links/citations for books and other resources that are deemed
 
 ## Model and amateur rocketry
 
-* **How to Design, Build and Test Small Liquid-Fueled Rocket Engines**, Leroy J. Krzycki, Rocketlab / China Lake, CA., 1967  
-[Online source][4]
+* ![Online](https://i.imgur.com/BuJHYIv.png) **How to Design, Build and Test Small Liquid-Fueled Rocket Engines**, Leroy J. Krzycki, Rocketlab / China Lake, CA., 1967 [Online source][4]
 
 
 <hr/>
