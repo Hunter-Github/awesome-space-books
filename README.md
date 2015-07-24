@@ -54,7 +54,9 @@ This list includes links/citations for books and other resources that are deemed
 * **Modern Engineering for Design of Liquid-Propellant Rocket Engines**. Dieter K. Huzel and David H. Huang. [AIAA, 1992](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825).
 * **Mechanics and Thermodynamics of Propulsion**. P. Hill, C. Peterson. Addison-Wesley, 1992
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001 [Free PDF from MIT][2]  
-<!-- Harrje or Vigor Young? A combustion instability book is needed -->
+* **Liquid rocket combustion instability**. NASA, 1972. SP-194. Harrje D.T., Reardon F.H.
+* **Liquid rocket engine combustion instability**. Progress in Aeronautics and Astronautics, vol. 169. AIAA; 1995. Yang V., Anderson W. (eds.)
+
 
 ### Thermal control
 
