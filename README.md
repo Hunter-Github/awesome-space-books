@@ -86,6 +86,7 @@ This list includes links/citations for books and other resources that are deemed
 ## Manned exploration references
 
 * **Human spaceflight : mission analysis and design**. Wiley J. Larson; Linda K. Pranke. McGraw-Hill, 2000.
+* ![Online](https://i.imgur.com/BuJHYIv.png) **[NASA Human Rating Requirements](http://nodis3.gsfc.nasa.gov/npg_img/N_PR_8705_002B_/N_PR_8705_002B_.pdf)** (valid through 2016).
 * ![Online](https://i.imgur.com/BuJHYIv.png) **[Human integration design handbook](http://ston.jsc.nasa.gov/collections/TRS/_techrep/SP-2010-3407REV1.pdf)** NASA, 2010.
 * ![Online](https://i.imgur.com/BuJHYIv.png) **[NASA STD-3001 Vol.1 Crew Health](https://standards.nasa.gov/documents/viewdoc/3315622/3315622)** as of 2014-07-30
 * ![Online](https://i.imgur.com/BuJHYIv.png) **[NASA STD-3001 Vol.2 Human Factors, Habitability and Environmental Health](https://standards.nasa.gov/documents/viewdoc/3315785/3315785)** as of 2011-01-10
