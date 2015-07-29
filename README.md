@@ -57,6 +57,7 @@ This list includes links/citations for books and other resources that are deemed
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001 [Free PDF from MIT][2]  
 * **Liquid rocket combustion instability**. NASA, 1972. SP-194. Harrje D.T., Reardon F.H.
 * **Liquid rocket engine combustion instability**. Progress in Aeronautics and Astronautics, vol. 169. AIAA; 1995. Yang V., Anderson W. (eds.)
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Fundamentals of Electric Propulsion: Ion and Hall Thrusters**.  Dan M. Goebel, Ira Katz. [Free PDF from NASA](http://descanso.jpl.nasa.gov/SciTechBook/series1/Goebel__cmprsd_opt.pdf)
 
 
 ### Thermal control
