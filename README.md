@@ -68,6 +68,10 @@ This list includes links/citations for books and other resources that are deemed
 
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Deep Space Optical Communications**. Ed.by Hamid Hemmati. JPL, 2005. [Available online at JPL](http://descanso.jpl.nasa.gov/monograph/series7/Descanso_7_Full_Version+.pdf)
 
+### Scientific payloads
+
+* **Principles of Space Instrument Design**.  	A. M. Cruise, T. J. Patrick, J. A. Bowles, C. V. Goodall. Cambridge Univ.Press, 1998. ISBN 9780521451642.
+
 ### External risks
 
 * **Space Debris: Models and Risk Analysis**. Heinrich Klinkrad. 2006. ISBN [ 	9783540376743](https://www.worldcat.org/title/space-debris-models-and-risk-analysis/oclc/262691812)
