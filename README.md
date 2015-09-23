@@ -322,7 +322,7 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 * [Angara] - somebody keeps the guide available at L2, it seems. Not really wise.
 * [Long March 2C](http://www.globalsecurity.org/space/library/report/1999/2c.htm) an archive copy (1999) from GlobalSecurity in separate chapters.
 * [Long March 3A](http://cgwic.com/LaunchServices/Download/manual/LM-3A%20Series%20Launch%20Vehicles%20User%27s%20Manual%20Issue%202011.pdf) (final version, 2011)
-* [H-IIA] - contact the manufacturer. [D'oh!](https://www.mhi-global.com/cgi-bin/inquiry/index.cgi?code=10066&product=H-IIALaunchServices(User%27sManual))
+* [H-IIA](https://www.raumfahrer.net/forum/smf/index.php?action=media;sa=media;in=2955;dl) - 2001. You can also contact the manufacturer. [D'oh!](https://www.mhi-global.com/cgi-bin/inquiry/index.cgi?code=10066&product=H-IIALaunchServices(User%27sManual))
 * [H-IIB]
 * [PSLV](https://laser-swarm.googlecode.com/svn/trunk/Literature/GRM-ISR-MA-0298%20%5B4.0%5D%20PSLV%20User%27s%20Manual.pdf) as of 2005
 * [GSLV]
