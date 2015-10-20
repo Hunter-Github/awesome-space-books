@@ -82,6 +82,7 @@ This list includes links/citations for books and other resources that are deemed
 
 * **Hypersonic aerothermodynamics**. John J. Bertin. AIAA, 1994. ISBN [9781601191984](https://www.worldcat.org/title/hypersonic-aerothermodynamics/oclc/123537628)
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Coming Home: Reentry and Recovery from Space**. Roger D. Launius, Dennis R. Jenkins, NASA [Free download in EPUB / MOBI / PDF formats via NASA e-Books page][1]
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Introduction to Astrodynamic Reentry**. Lt.-Col. Kerry D. Hicks, 2009. ([Free PDF online](https://web.archive.org/web/20151018055009/http://www.dtic.mil/dtic/tr/fulltext/u2/a505342.pdf)).
 
 ### Operations
 
