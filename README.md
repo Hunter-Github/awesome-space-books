@@ -327,13 +327,13 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 * [H-IIB]
 * [PSLV](https://laser-swarm.googlecode.com/svn/trunk/Literature/GRM-ISR-MA-0298%20%5B4.0%5D%20PSLV%20User%27s%20Manual.pdf) as of 2005
 * [GSLV]
-* [Taurus-II](http://www.orbital.com/NewsInfo/Publications/Taurus_II_Guide.pdf)
+* [Taurus-II](https://web.archive.org/web/20100509062344/http://www.orbital.com/NewsInfo/Publications/Taurus_II_Guide.pdf) - archived at Wayback Machine
 * [Antares]
 * [Zenit-3SL (from Sea Launch)](http://www.sea-launch.com/download.ashx?r=2&q=9) (Rev.D User guide, December 2012) 
 * [Dnepr-1](http://snebulos.mit.edu/projects/crm/DNEPR/Dnepr_User_Guide.pdf)
 * [Rockot](http://www.eurockot.com/wp-content/uploads/2012/10/UsersGuideIss5Rev0web.pdf)
 * [Minotaur I](http://web.archive.org/web/20110616075716/http://www.orbital.com/NewsInfo/Publications/Minotaur_Guide.pdf) as of 2011-06-16
-* [Pegasus](http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf)
+* [Pegasus](https://web.archive.org/web/20140702071121/http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf) - a historical copy from Web Archive as of 2014-07-02. Merger with ATK did not leave stones unturned.
 * [Falcon 9](http://decadal.gsfc.nasa.gov/pace-201206mdl/Launch%20Vehicle%20Information/Falcon9UsersGuide_2009.pdf)
 * Epsilon (a Japanese proto-ICBM).
 
