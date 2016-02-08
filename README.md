@@ -335,7 +335,8 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 * [Minotaur I](http://web.archive.org/web/20110616075716/http://www.orbital.com/NewsInfo/Publications/Minotaur_Guide.pdf) as of 2011-06-16
 * [Pegasus](https://web.archive.org/web/20140702071121/http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf) - a historical copy from Web Archive as of 2014-07-02. Merger with ATK did not leave stones unturned.
 * [Falcon 9](http://decadal.gsfc.nasa.gov/pace-201206mdl/Launch%20Vehicle%20Information/Falcon9UsersGuide_2009.pdf)
-* Epsilon (a Japanese proto-ICBM).
+* Epsilon (a Japanese proto-ICBM)
+* H3 (a planned Japanese 4t - to - SSO launcher).
 
 An infographic from Randall Munroe (Copyright XKCD):
 
