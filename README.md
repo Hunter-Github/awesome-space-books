@@ -46,6 +46,7 @@ This list includes links/citations for books and other resources that are deemed
 
 * **Space Vehicle Dynamics and Control**. Bong Wie. AIAA, 1998. ISBN [9781615830442](https://www.worldcat.org/title/space-vehicle-dynamics-and-control/oclc/435623651)
 * **Modeling and Simulation of Aerospace Vehicle Dynamics**. (2nd ed.). Peter H. Zipfel. AIAA, 2007 ISBN [9781601195395](https://www.worldcat.org/title/modeling-and-simulation-of-aerospace-vehicle-dynamics/oclc/223986238)
+* **Flexible spacecraft dynamics, control and guidance (technologies by Giovanni Campolo)**. Leonardo Mazzini. Springer, 2016. ISBN [9783319255385](https://www.worldcat.org/title/flexible-spacecraft-dynamics-control-and-guidance-technologies-by-giovanni-campolo/oclc/953815665)
 * **Statistical Orbit Determination**. B.D. Tapley, B.E. Schutz, G.H. Born. New York, Elsevier, 2004. ISBN [9780080541730](https://www.worldcat.org/title/statistical-orbit-determination/oclc/162577113)
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Dynamical Systems, the Three-Body Problem and Space Mission Design**, Koon, Lo, Marsden & Ross, 2006. [Free PDF form Caltech][3]
 * **Libration Point Orbits and Applications.** J.Masdemont. 2003.
