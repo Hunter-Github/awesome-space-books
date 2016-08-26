@@ -52,6 +52,8 @@ This list includes links/citations for books and other resources that are deemed
 * **Libration Point Orbits and Applications.** J.Masdemont. 2003.
 * **Fundamentals of Kalman Filtering: A Practical Approach.** Paul Zarchan, Howard Musoff, Frank K. Lu. (3rd ed.) AIAA, 2009.
 ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filtering-a-practical-approach-third-edition/oclc/884705084)
+* **Orbital Mechanics for Engineering Students**. Howard Curtis, 2005. ISBN [0080470548](https://www.worldcat.org/title/orbital-mechanics-for-engineering-students/oclc/124074527)
+* ![Online](https://i.imgur.com/BuJHYIv.png) **LEO on the Cheap: Methods for Achieving Drastic Reductions in Space Launch Costs**. John R. London III, Lt Col, USAF. Research Report No. AU-ARI-93-8, Air University Press, Maxwell Air Force Base, Alabama, October 1994. Available [here](https://upload.wikimedia.org/wikipedia/commons/7/79/LEOonthecheap.pdf).
 
 ### Propulsion
 
@@ -70,6 +72,7 @@ ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filte
 ### Communications
 
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Deep Space Optical Communications**. Ed.by Hamid Hemmati. JPL, 2005. [Available online at JPL](http://descanso.jpl.nasa.gov/monograph/series7/Descanso_7_Full_Version+.pdf)
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Deep Space Telecommunications Systems Engineering**. Joseph H. Yuen (Ed.), Jet Propulsion Laboratory, California Institute of Technology, 1982, (JPL Publication 82-76) Available [here](http://descanso.jpl.nasa.gov/dstse/DSTSE.pdf)
 
 ### Scientific payloads
 
