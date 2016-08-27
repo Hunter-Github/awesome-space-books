@@ -344,6 +344,8 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 * Epsilon (a Japanese proto-ICBM)
 * H3 (a planned Japanese 4t - to - SSO launcher).
 
+_It should be noted that there are on-line commercial resources with space-related technical information (like the above-mentioned, but not advertised here **L2**). Readers are encouraged to check availability of linked documents (even those accessible via Web Archive) and submit pull requests with permanent links at [archive.is](https://archive.is) to avoid knuckle-headed retroactive cleanup perpetrated by web site owners._
+
 An infographic from Randall Munroe (Copyright XKCD):
 
 [![Copyright XKCD](https://imgs.xkcd.com/comics/payloads_large.png)](https://imgs.xkcd.com/comics/payloads_large.png)
