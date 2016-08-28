@@ -174,9 +174,23 @@ Liquid Rocket Propellants][5]
 <hr/>
 
 ## Miscellaneous
+
+### Lists in this repository
+
 * [NASA NTRS papers of interest](https://github.com/Hunter-Github/awesome-space-books/blob/master/NTRS.md)
 * [Videos](https://github.com/Hunter-Github/awesome-space-books/blob/master/Videos.md)
 * [Alcubierre drive](https://github.com/Hunter-Github/awesome-space-books/blob/master/Alcubierre.md)
+
+### Online courses and textbooks (free of charge)
+
+<!-- Source: https://meta.space.stackexchange.com/revisions/793/1 -->
+
+ * [NASA Basics of Space Flight][http://www2.jpl.nasa.gov/basics/index.php]
+ * [Khan Academy][https://www.khanacademy.org/science/physics]
+ * [The Physics Hypertextbook][http://physics.info/]
+ * [Bookboon's Engineering section][http://bookboon.com/en/engineering-ebooks]
+ * [Engineering Mathematics: YouTube Workbook][https://www.youtube.com/playlist?list=PL13760D87FA88691D]
+ * [Alison Foundation Diploma in Mathematics - Science, Technology and Engineering][http://alison.com/courses/Foundation-Diploma-in-Mathematics-Science-Technology-Engineering]
 
 <!-- Mars collection from NASA HQ
 
