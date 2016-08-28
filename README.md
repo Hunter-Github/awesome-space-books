@@ -168,8 +168,8 @@ Liquid Rocket Propellants][5]
 
 ## Interdisciplinary books
 
-* Harry McSween and Gary Huss, Cosmochemistry
-* Paul Schenk, Atlas of the Galilean Satellites
+* **Cosmochemistry**. Harry Y. McSween Jr., Gary R. Huss. Cambridge Univ. Press, 2010. ISBN 9780521878623.
+* **Atlas of the Galilean Satellites**. Paul Schenk. 2010. ISBN 9780521868358.
 
 <hr/>
 
