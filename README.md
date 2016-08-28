@@ -328,35 +328,35 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 
 ## The list of (historical and current) launch vehicle user manuals
 
-* [Saturn V](http://history.nasa.gov/ap08fj/pdf/sa503-flightmanual.pdf) (SA-503 **flight** manual)
-* [Energiya]
-* [Delta 2](http://www.ulalaunch.com/uploads/docs/DeltaIIPayloadPlannersGuide2007.pdf)
-* [Delta 4](http://www.ulalaunch.com/uploads/docs/Launch_Vehicles/Delta_IV_Users_Guide_June_2013.pdf)
-* [Atlas 5](http://www.ulalaunch.com/uploads/docs/AtlasVUsersGuide2010.pdf)
-* [Athena Ic and IIc](http://www.lockheedmartin.com/content/dam/lockheed/data/space/documents/athena/Athena_MPG_01-23-12.pdf)
-* [Ariane 5](http://www.arianespace.com/launch-services-ariane5/Ariane5_users_manual_Issue5_July2011.pdf)
-* [Vega](http://www.arianespace.com/launch-services-vega/VEGAUsersManual.pdf)
-* [Soyuz (from Baykonur), archived at Arianespace](http://web.archive.org/web/20070304094917/http://arianespace.com/site/images/soyuz_users_manual_190401.pdf) as of 2007-03-04
-* [Soyuz (from Baykonur), StarSem](http://web.archive.org/web/20130620195416/http://www.starsem.com/services/images/soyuz_users_manual_190401.pdf) as of 2013-06-20
-* [Soyuz (from Guiana Space Centre)](http://www.arianespace.com/launch-services-soyuz/Soyuz-Users-Manual-March-2012.pdf) as of 2012-03
-* [Proton](http://www.ilslaunch.com/sites/default/files/pdf/Proton%20Mission%20Planner's%20Guide%20Revision%207%20(LKEB-9812-1990).pdf) Mission planning guide Rev.7 from ILS
-* [Angara] - somebody keeps the guide available at L2, it seems. Not really wise.
-* [Long March 2C](http://www.globalsecurity.org/space/library/report/1999/2c.htm) an archive copy (1999) from GlobalSecurity in separate chapters.
-* [Long March 3A](http://cgwic.com/LaunchServices/Download/manual/LM-3A%20Series%20Launch%20Vehicles%20User%27s%20Manual%20Issue%202011.pdf) (final version, 2011)
-* [H-IIA](https://www.raumfahrer.net/forum/smf/index.php?action=media;sa=media;in=2955;dl) - 2001. You can also contact the manufacturer. [D'oh!](https://www.mhi-global.com/cgi-bin/inquiry/index.cgi?code=10066&product=H-IIALaunchServices(User%27sManual))
-* [H-IIB]
-* [PSLV](https://laser-swarm.googlecode.com/svn/trunk/Literature/GRM-ISR-MA-0298%20%5B4.0%5D%20PSLV%20User%27s%20Manual.pdf) as of 2005
-* [GSLV]
-* [Taurus-II](https://web.archive.org/web/20100509062344/http://www.orbital.com/NewsInfo/Publications/Taurus_II_Guide.pdf) - archived at Wayback Machine
-* [Antares]
-* [Zenit-3SL (from Sea Launch)](http://www.sea-launch.com/download.ashx?r=2&q=9) (Rev.D User guide, December 2012) 
-* [Dnepr-1](http://snebulos.mit.edu/projects/crm/DNEPR/Dnepr_User_Guide.pdf)
-* [Rockot](http://www.eurockot.com/wp-content/uploads/2012/10/UsersGuideIss5Rev0web.pdf)
-* [Minotaur I](http://web.archive.org/web/20110616075716/http://www.orbital.com/NewsInfo/Publications/Minotaur_Guide.pdf) as of 2011-06-16
-* [Pegasus](https://web.archive.org/web/20140702071121/http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf) - a historical copy from Web Archive as of 2014-07-02. Merger with ATK did not leave stones unturned.
-* [Falcon 9](http://decadal.gsfc.nasa.gov/pace-201206mdl/Launch%20Vehicle%20Information/Falcon9UsersGuide_2009.pdf)
-* Epsilon (a Japanese proto-ICBM)
-* H3 (a planned Japanese 4t - to - SSO launcher).
+* :us: [Saturn V](http://history.nasa.gov/ap08fj/pdf/sa503-flightmanual.pdf) (SA-503 **flight** manual)
+* <!-- :su: --> [Energiya]
+* :us: [Delta 2](http://www.ulalaunch.com/uploads/docs/DeltaIIPayloadPlannersGuide2007.pdf)
+* :us: [Delta 4](http://www.ulalaunch.com/uploads/docs/Launch_Vehicles/Delta_IV_Users_Guide_June_2013.pdf)
+* :us: <!-- :ru: --> [Atlas 5](http://www.ulalaunch.com/uploads/docs/AtlasVUsersGuide2010.pdf)
+* :us: [Athena Ic and IIc](http://www.lockheedmartin.com/content/dam/lockheed/data/space/documents/athena/Athena_MPG_01-23-12.pdf)
+* <!-- :eu: --> [Ariane 5](http://www.arianespace.com/launch-services-ariane5/Ariane5_users_manual_Issue5_July2011.pdf)
+* <!-- :eu: --> [Vega](http://www.arianespace.com/launch-services-vega/VEGAUsersManual.pdf)
+* :ru: [Soyuz (from Baykonur), archived at Arianespace](http://web.archive.org/web/20070304094917/http://arianespace.com/site/images/soyuz_users_manual_190401.pdf) as of 2007-03-04
+* :ru: <!-- :eu: --> [Soyuz (from Baykonur), StarSem](http://web.archive.org/web/20130620195416/http://www.starsem.com/services/images/soyuz_users_manual_190401.pdf) as of 2013-06-20
+* :ru: <!-- :eu: --> [Soyuz (from Guiana Space Centre)](http://www.arianespace.com/launch-services-soyuz/Soyuz-Users-Manual-March-2012.pdf) as of 2012-03
+* :ru: [Proton](http://www.ilslaunch.com/sites/default/files/pdf/Proton%20Mission%20Planner's%20Guide%20Revision%207%20(LKEB-9812-1990).pdf) Mission planning guide Rev.7 from ILS
+* :ru: [Angara] - somebody keeps the guide available at L2, it seems. Not really wise.
+* :cn: [Long March 2C](http://www.globalsecurity.org/space/library/report/1999/2c.htm) an archive copy (1999) from GlobalSecurity in separate chapters.
+* :cn: [Long March 3A](http://cgwic.com/LaunchServices/Download/manual/LM-3A%20Series%20Launch%20Vehicles%20User%27s%20Manual%20Issue%202011.pdf) (final version, 2011)
+* :jp: [H-IIA](https://www.raumfahrer.net/forum/smf/index.php?action=media;sa=media;in=2955;dl) - 2001. You can also contact the manufacturer. [D'oh!](https://www.mhi-global.com/cgi-bin/inquiry/index.cgi?code=10066&product=H-IIALaunchServices(User%27sManual))
+* :jp: [H-IIB]
+* <!-- :in: --> [PSLV](https://laser-swarm.googlecode.com/svn/trunk/Literature/GRM-ISR-MA-0298%20%5B4.0%5D%20PSLV%20User%27s%20Manual.pdf) as of 2005
+* <!-- :in: --> [GSLV]
+* :us: [Taurus-II](https://web.archive.org/web/20100509062344/http://www.orbital.com/NewsInfo/Publications/Taurus_II_Guide.pdf) - archived at Wayback Machine
+* :us: [Antares]
+* <!-- :ua: --> :ru: [Zenit-3SL (from Sea Launch)](http://www.sea-launch.com/download.ashx?r=2&q=9) (Rev.D User guide, December 2012) 
+* <!-- :ua: --> :ru: [Dnepr-1](http://snebulos.mit.edu/projects/crm/DNEPR/Dnepr_User_Guide.pdf)
+* :ru: [Rockot](http://www.eurockot.com/wp-content/uploads/2012/10/UsersGuideIss5Rev0web.pdf)
+* :us: [Minotaur I](http://web.archive.org/web/20110616075716/http://www.orbital.com/NewsInfo/Publications/Minotaur_Guide.pdf) as of 2011-06-16
+* :us: [Pegasus](https://web.archive.org/web/20140702071121/http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf) - a historical copy from Web Archive as of 2014-07-02. Merger with ATK did not leave stones unturned.
+* :us: [Falcon 9](http://decadal.gsfc.nasa.gov/pace-201206mdl/Launch%20Vehicle%20Information/Falcon9UsersGuide_2009.pdf)
+* :jp: Epsilon (a Japanese proto-ICBM)
+* :jp: H3 (a planned Japanese 4t - to - SSO launcher).
 
 _It should be noted that there are on-line commercial resources with space-related technical information (like the above-mentioned, but not advertised here **L2**). Readers are encouraged to check availability of linked documents (even those accessible via Web Archive) and submit pull requests with permanent links at [archive.is](https://archive.is) to avoid knuckle-headed retroactive cleanup perpetrated by web site owners._
 
