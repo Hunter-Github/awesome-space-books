@@ -146,21 +146,21 @@ Liquid Rocket Propellants][5]
 
 ## Nonfiction and activity space books for children
 
-* (age 4-8) Brian Floca: *Moonshot: The Flight of Apollo 11* NY : Atheneum Books for Young Readers, 2009. (48 pages) ISBN 9781416950462
-* (age 5-7) Martha E. H. Rustad: *The Exploring Space* (6 x 24 pages)
+* ![Age 4-8](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/4-8.png?raw=true) Brian Floca: *Moonshot: The Flight of Apollo 11* NY : Atheneum Books for Young Readers, 2009. (48 pages) ISBN 9781416950462
+* ![Age 5-7](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/5-7.png?raw=true) Martha E. H. Rustad: *The Exploring Space* (6 x 24 pages)
 * Linda McReynolds: *Eight Days Gone* (48 pages, 2012) ISBN 9781580893640.
-* (age 7-11) Raman Prinja: *Universe Rocks* (4 x 32 pages, 2012) ISBN 9781848359345.
+* ![Age 7-11](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/7-11.png?raw=true) Raman Prinja: *Universe Rocks* (4 x 32 pages, 2012) ISBN 9781848359345.
 * Elise Gravel: *Blast off with Doodle Tom* (96 pages)
-* (age 8-10) Heinemann-Raintree (publisher): *Astronaut Travel Guides* (8 x 48 pages)
-* (age 9+) Mark Brake, Nishant Choksi: *Really, Really Big Questions about Space and Time* (64 pages)
-* (age 9-13) Don Nardo: *Destined for Space* (64 pages)
-* (age 9-13) Enslow Publishers: *The American Space Missions—Astronauts, Exploration, and Discovery* (6 x 48 pages)
-* (age 10+) Ian Graham: *3D Explorer: Solar System* (32 pages pop-up)
-* (age 10-13) Carolyn Cinami DeCristofano, Michael Carroll: *A Black Hole Is Not a Hole* (48 pages)
-* (age 10+) Clive Gifford: *Out of This World: All the Cool Bits About Space* (128 pages)
-* (age 10+) Pamela Dell: *Man on the Moon: How a Photograph Made Anything Seem Possible* (64 pages)
+* ![Age 8-10](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/8-10.png?raw=true) Heinemann-Raintree (publisher): *Astronaut Travel Guides* (8 x 48 pages)
+* ![Age 9+](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/9plus.png?raw=true) Mark Brake, Nishant Choksi: *Really, Really Big Questions about Space and Time* (64 pages)
+* ![Age 9-13](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/9-13.png?raw=true) Don Nardo: *Destined for Space* (64 pages)
+* ![Age 9-13](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/9-13.png?raw=true) Enslow Publishers: *The American Space Missions—Astronauts, Exploration, and Discovery* (6 x 48 pages)
+* ![Age 10+](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/10plus.png?raw=true) Ian Graham: *3D Explorer: Solar System* (32 pages pop-up)
+* ![Age 10-13](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/10-13.png?raw=true) Carolyn Cinami DeCristofano, Michael Carroll: *A Black Hole Is Not a Hole* (48 pages)
+* ![Age 10+](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/10plus.png?raw=true) Clive Gifford: *Out of This World: All the Cool Bits About Space* (128 pages)
+* ![Age 10+](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/10plus.png?raw=true) Pamela Dell: *Man on the Moon: How a Photograph Made Anything Seem Possible* (64 pages)
 * Kristen McCurry, Mat Edwards: *How to Draw Amazing Airplanes and Spacecraft* (64 pages)
-* (age 11+) Eve Hartman, Wendy Meshbesher: *Mission to Mars* (56 pages)
+* ![Age 11+](https://github.com/Hunter-Github/awesome-space-books/blob/master/badges/11plus.png?raw=true) Eve Hartman, Wendy Meshbesher: *Mission to Mars* (56 pages)
 
 * [Review of children's space-themed books by Emily Lakdawalla](http://www.planetary.org/blogs/emily-lakdawalla/2013/11130900-reviews-of-space-themed-books.html)
 
