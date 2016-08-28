@@ -1,4 +1,4 @@
-# awesome-space-books
+# Awesome Space Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Hunter-Github/awesome-space-books)
 A curated list of space exploration resources (born at https://meta.space.stackexchange.com/q/249/168).
 
 <!-- ![Paper](https://i.imgur.com/ta5hG2d.png)-->
