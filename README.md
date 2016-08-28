@@ -185,12 +185,12 @@ Liquid Rocket Propellants][5]
 
 <!-- Source: https://meta.space.stackexchange.com/revisions/793/1 -->
 
- * [NASA Basics of Space Flight][http://www2.jpl.nasa.gov/basics/index.php]
- * [Khan Academy][https://www.khanacademy.org/science/physics]
- * [The Physics Hypertextbook][http://physics.info/]
- * [Bookboon's Engineering section][http://bookboon.com/en/engineering-ebooks]
- * [Engineering Mathematics: YouTube Workbook][https://www.youtube.com/playlist?list=PL13760D87FA88691D]
- * [Alison Foundation Diploma in Mathematics - Science, Technology and Engineering][http://alison.com/courses/Foundation-Diploma-in-Mathematics-Science-Technology-Engineering]
+ * [NASA Basics of Space Flight](http://www2.jpl.nasa.gov/basics/index.php)
+ * [Khan Academy](https://www.khanacademy.org/science/physics)
+ * [The Physics Hypertextbook](http://physics.info/)
+ * [Bookboon's Engineering section](http://bookboon.com/en/engineering-ebooks)
+ * [Engineering Mathematics: YouTube Workbook](https://www.youtube.com/playlist?list=PL13760D87FA88691D)
+ * [Alison Foundation Diploma in Mathematics - Science, Technology and Engineering](http://alison.com/courses/Foundation-Diploma-in-Mathematics-Science-Technology-Engineering)
 
 <!-- Mars collection from NASA HQ
 
