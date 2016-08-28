@@ -134,7 +134,7 @@ Liquid Rocket Propellants][5]
 * ![Online](https://i.imgur.com/BuJHYIv.png) Boris Tchertok. Rockets and People. Vol.1: [part 1](http://history.nasa.gov/SP-4110/vol1-1.pdf), [part 2](http://history.nasa.gov/SP-4110/vol1-2.pdf), [part 3](http://history.nasa.gov/SP-4110/vol1-3.pdf). [Vol.2](http://history.nasa.gov/SP-4110/vol2.pdf) [Vol.3](http://history.nasa.gov/SP-4110/vol3.pdf) [Vol.4](http://history.nasa.gov/SP-4110/vol4.pdf)
 * ![Online](https://i.imgur.com/BuJHYIv.png) NASA History Office books ([online](http://www.hq.nasa.gov/office/pao/History/series95.html))
 * ![Online](https://i.imgur.com/BuJHYIv.png) Carey McCleskey. [Space Shuttle Operations and Infrastructure: A Systems Analysis of Design Root Causes and Effects](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050172128_2005171687.pdf) (2005).
-* ![Online](https://i.imgur.com/BuJHYIv.png) [Space Shuttle Missions Summary](www.jsc.nasa.gov/history/reference/TM-2011-216142.pdf) (NASA, 2011).
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Space Shuttle Missions Summary](http://www.jsc.nasa.gov/history/reference/TM-2011-216142.pdf) (NASA, 2011).
 * Tom Wolfe. The Right Stuff. 1979.
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Apollo manuals](http://www.ibiblio.org/apollo/links.html) from Ron Burkey.
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Stages to Saturn](http://www.ibiblio.org/apollo/Documents/StagesToSaturn-Bilstein.pdf), Roger E. Bilstein. 1980.
