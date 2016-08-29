@@ -328,35 +328,35 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 
 ## The list of (historical and current) launch vehicle user manuals
 
-* :us: [Saturn V](http://history.nasa.gov/ap08fj/pdf/sa503-flightmanual.pdf) (SA-503 **flight** manual)
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Saturn V](http://history.nasa.gov/ap08fj/pdf/sa503-flightmanual.pdf) (SA-503 **flight** manual)
 * SU [Energiya]
-* :us: [Delta 2](http://www.ulalaunch.com/uploads/docs/DeltaIIPayloadPlannersGuide2007.pdf)
-* :us: [Delta 4](http://www.ulalaunch.com/uploads/docs/Launch_Vehicles/Delta_IV_Users_Guide_June_2013.pdf)
-* :us: & :ru: [Atlas 5](http://www.ulalaunch.com/uploads/docs/AtlasVUsersGuide2010.pdf)
-* :us: [Athena Ic and IIc](http://www.lockheedmartin.com/content/dam/lockheed/data/space/documents/athena/Athena_MPG_01-23-12.pdf)
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Delta 2](http://www.ulalaunch.com/uploads/docs/DeltaIIPayloadPlannersGuide2007.pdf)
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Delta 4](http://www.ulalaunch.com/uploads/docs/Launch_Vehicles/Delta_IV_Users_Guide_June_2013.pdf)
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) & ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) [Atlas 5](http://www.ulalaunch.com/uploads/docs/AtlasVUsersGuide2010.pdf)
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Athena Ic and IIc](http://www.lockheedmartin.com/content/dam/lockheed/data/space/documents/athena/Athena_MPG_01-23-12.pdf)
 * ![EU](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/European-Union-Flag-24.png) [Ariane 5](http://www.arianespace.com/launch-services-ariane5/Ariane5_users_manual_Issue5_July2011.pdf)
 * ![EU](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/European-Union-Flag-24.png) [Vega](http://www.arianespace.com/launch-services-vega/VEGAUsersManual.pdf)
-* :ru: [Soyuz (from Baykonur), archived at Arianespace](http://web.archive.org/web/20070304094917/http://arianespace.com/site/images/soyuz_users_manual_190401.pdf) as of 2007-03-04
-* :ru: ![EU](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/European-Union-Flag-24.png) [Soyuz (from Baykonur), StarSem](http://web.archive.org/web/20130620195416/http://www.starsem.com/services/images/soyuz_users_manual_190401.pdf) as of 2013-06-20
-* :ru: ![EU](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/European-Union-Flag-24.png) [Soyuz (from Guiana Space Centre)](http://www.arianespace.com/launch-services-soyuz/Soyuz-Users-Manual-March-2012.pdf) as of 2012-03
-* :ru: [Proton](http://www.ilslaunch.com/sites/default/files/pdf/Proton%20Mission%20Planner's%20Guide%20Revision%207%20(LKEB-9812-1990).pdf) Mission planning guide Rev.7 from ILS
-* :ru: [Angara] - somebody keeps the guide available at L2, it seems. Not really wise.
-* :cn: [Long March 2C](http://www.globalsecurity.org/space/library/report/1999/2c.htm) an archive copy (1999) from GlobalSecurity in separate chapters.
-* :cn: [Long March 3A](http://cgwic.com/LaunchServices/Download/manual/LM-3A%20Series%20Launch%20Vehicles%20User%27s%20Manual%20Issue%202011.pdf) (final version, 2011)
-* :jp: [H-IIA](https://www.raumfahrer.net/forum/smf/index.php?action=media;sa=media;in=2955;dl) - 2001. You can also contact the manufacturer. [D'oh!](https://www.mhi-global.com/cgi-bin/inquiry/index.cgi?code=10066&product=H-IIALaunchServices(User%27sManual))
-* :jp: [H-IIB]
+* ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) [Soyuz (from Baykonur), archived at Arianespace](http://web.archive.org/web/20070304094917/http://arianespace.com/site/images/soyuz_users_manual_190401.pdf) as of 2007-03-04
+* ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) ![EU](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/European-Union-Flag-24.png) [Soyuz (from Baykonur), StarSem](http://web.archive.org/web/20130620195416/http://www.starsem.com/services/images/soyuz_users_manual_190401.pdf) as of 2013-06-20
+* ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) ![EU](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/European-Union-Flag-24.png) [Soyuz (from Guiana Space Centre)](http://www.arianespace.com/launch-services-soyuz/Soyuz-Users-Manual-March-2012.pdf) as of 2012-03
+* ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) [Proton](http://www.ilslaunch.com/sites/default/files/pdf/Proton%20Mission%20Planner's%20Guide%20Revision%207%20(LKEB-9812-1990).pdf) Mission planning guide Rev.7 from ILS
+* ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) [Angara] - somebody keeps the guide available at L2, it seems. Not really wise.
+* ![China](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/China-Flag-24.png) [Long March 2C](http://www.globalsecurity.org/space/library/report/1999/2c.htm) an archive copy (1999) from GlobalSecurity in separate chapters.
+* ![China](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/China-Flag-24.png) [Long March 3A](http://cgwic.com/LaunchServices/Download/manual/LM-3A%20Series%20Launch%20Vehicles%20User%27s%20Manual%20Issue%202011.pdf) (final version, 2011)
+* ![Japan](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Japan-Flag-24.png) [H-IIA](https://www.raumfahrer.net/forum/smf/index.php?action=media;sa=media;in=2955;dl) - 2001. You can also contact the manufacturer. [D'oh!](https://www.mhi-global.com/cgi-bin/inquiry/index.cgi?code=10066&product=H-IIALaunchServices(User%27sManual))
+* ![Japan](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Japan-Flag-24.png) [H-IIB]
 * ![India](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/India-Flag-24.png) [PSLV](https://laser-swarm.googlecode.com/svn/trunk/Literature/GRM-ISR-MA-0298%20%5B4.0%5D%20PSLV%20User%27s%20Manual.pdf) as of 2005
 * ![India](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/India-Flag-24.png) [GSLV]
-* :us: [Taurus-II](https://web.archive.org/web/20100509062344/http://www.orbital.com/NewsInfo/Publications/Taurus_II_Guide.pdf) - archived at Wayback Machine
-* :us: [Antares]
-* ![Ukraine](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Ukraine-Flag-24.png) :ru: [Zenit-3SL (from Sea Launch)](http://www.sea-launch.com/download.ashx?r=2&q=9) (Rev.D User guide, December 2012) 
-* ![Ukraine](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Ukraine-Flag-24.png) :ru: [Dnepr-1](http://snebulos.mit.edu/projects/crm/DNEPR/Dnepr_User_Guide.pdf)
-* :ru: [Rockot](http://www.eurockot.com/wp-content/uploads/2012/10/UsersGuideIss5Rev0web.pdf)
-* :us: [Minotaur I](http://web.archive.org/web/20110616075716/http://www.orbital.com/NewsInfo/Publications/Minotaur_Guide.pdf) as of 2011-06-16
-* :us: [Pegasus](https://web.archive.org/web/20140702071121/http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf) - a historical copy from Web Archive as of 2014-07-02. Merger with ATK did not leave stones unturned.
-* :us: [Falcon 9](http://decadal.gsfc.nasa.gov/pace-201206mdl/Launch%20Vehicle%20Information/Falcon9UsersGuide_2009.pdf)
-* :jp: Epsilon (a Japanese proto-ICBM)
-* :jp: H3 (a planned Japanese 4t - to - SSO launcher).
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Taurus-II](https://web.archive.org/web/20100509062344/http://www.orbital.com/NewsInfo/Publications/Taurus_II_Guide.pdf) - archived at Wayback Machine
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Antares]
+* ![Ukraine](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Ukraine-Flag-24.png) ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) [Zenit-3SL (from Sea Launch)](http://www.sea-launch.com/download.ashx?r=2&q=9) (Rev.D User guide, December 2012) 
+* ![Ukraine](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Ukraine-Flag-24.png) ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) [Dnepr-1](http://snebulos.mit.edu/projects/crm/DNEPR/Dnepr_User_Guide.pdf)
+* ![Russia](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Russia-Flag-24.png) [Rockot](http://www.eurockot.com/wp-content/uploads/2012/10/UsersGuideIss5Rev0web.pdf)
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Minotaur I](http://web.archive.org/web/20110616075716/http://www.orbital.com/NewsInfo/Publications/Minotaur_Guide.pdf) as of 2011-06-16
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Pegasus](https://web.archive.org/web/20140702071121/http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf) - a historical copy from Web Archive as of 2014-07-02. Merger with ATK did not leave stones unturned.
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Falcon 9](http://decadal.gsfc.nasa.gov/pace-201206mdl/Launch%20Vehicle%20Information/Falcon9UsersGuide_2009.pdf)
+* ![Japan](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Japan-Flag-24.png) Epsilon (a Japanese proto-ICBM)
+* ![Japan](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Japan-Flag-24.png) H3 (a planned Japanese 4t - to - SSO launcher).
 
 _It should be noted that there are on-line commercial resources with space-related technical information (like the above-mentioned, but not advertised here **L2**). Readers are encouraged to check availability of linked documents (even those accessible via Web Archive) and submit pull requests with permanent links at [archive.is](https://archive.is) to avoid knuckle-headed retroactive cleanup perpetrated by web site owners._
 
