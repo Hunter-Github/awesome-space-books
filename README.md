@@ -349,8 +349,8 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 * IN [GSLV]
 * :us: [Taurus-II](https://web.archive.org/web/20100509062344/http://www.orbital.com/NewsInfo/Publications/Taurus_II_Guide.pdf) - archived at Wayback Machine
 * :us: [Antares]
-* UA :ru: [Zenit-3SL (from Sea Launch)](http://www.sea-launch.com/download.ashx?r=2&q=9) (Rev.D User guide, December 2012) 
-* UA :ru: [Dnepr-1](http://snebulos.mit.edu/projects/crm/DNEPR/Dnepr_User_Guide.pdf)
+* ![Ukraine](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/ua3.png) :ru: [Zenit-3SL (from Sea Launch)](http://www.sea-launch.com/download.ashx?r=2&q=9) (Rev.D User guide, December 2012) 
+* ![Ukraine](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/ua3.png) :ru: [Dnepr-1](http://snebulos.mit.edu/projects/crm/DNEPR/Dnepr_User_Guide.pdf)
 * :ru: [Rockot](http://www.eurockot.com/wp-content/uploads/2012/10/UsersGuideIss5Rev0web.pdf)
 * :us: [Minotaur I](http://web.archive.org/web/20110616075716/http://www.orbital.com/NewsInfo/Publications/Minotaur_Guide.pdf) as of 2011-06-16
 * :us: [Pegasus](https://web.archive.org/web/20140702071121/http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf) - a historical copy from Web Archive as of 2014-07-02. Merger with ATK did not leave stones unturned.
