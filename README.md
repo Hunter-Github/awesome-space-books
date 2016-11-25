@@ -180,6 +180,7 @@ Liquid Rocket Propellants][5]
 * [NASA NTRS papers of interest](https://github.com/Hunter-Github/awesome-space-books/blob/master/NTRS.md)
 * [Videos](https://github.com/Hunter-Github/awesome-space-books/blob/master/Videos.md)
 * [Alcubierre drive](https://github.com/Hunter-Github/awesome-space-books/blob/master/Alcubierre.md)
+* [EM-Drive](https://github.com/Hunter-Github/awesome-space-books/blob/master/EM-Drive.md)
 
 ### Online courses and textbooks (free of charge)
 
