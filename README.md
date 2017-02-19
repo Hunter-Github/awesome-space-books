@@ -1,9 +1,13 @@
 # Awesome Space Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Hunter-Github/awesome-space-books)
-A curated list of space exploration resources (born at https://meta.space.stackexchange.com/q/249/168).
+A list of space exploration resources (born at https://meta.space.stackexchange.com/q/249/168 before the demise of the SE network).
+
+The motto of the list is:
+
+# _Been there, read that!_
 
 <!-- ![Paper](https://i.imgur.com/ta5hG2d.png)-->
 
-This list includes links/citations for books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan).
+This list includes links/citations for books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan). If you want "lighter" reading online, while waiting for the books to arrive, go to [Atomic Rockets](http://www.projectrho.com/public_html/rocket/).
 
 ## License
 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
