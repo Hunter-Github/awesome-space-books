@@ -1,8 +1,6 @@
-#NTRS papers of interest
+# NTRS papers of interest
 
-Interesting reports from the [NASA](http://www.nasa.gov/) [NTRS collection](http://ntrs.nasa.gov/) of technical papers
-
-(unsorted)
+Interesting reports from the [NASA](http://www.nasa.gov/) [NTRS collection](http://ntrs.nasa.gov/) of technical papers in no particular order.
 
 * [Realizing "2001: A Space Odyssey": Piloted Spherical Torus Nuclear Fusion Propulsion](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050160960_2005161052.pdf)
 * [On the Shoulders of Titans](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19780012208_1978012208.pdf)
