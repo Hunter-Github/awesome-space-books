@@ -152,6 +152,10 @@ Liquid Rocket Propellants][5]
 * ![Online](https://i.imgur.com/BuJHYIv.png) [A brief history of the DoD space test program](http://web.archive.org/web/20110419192350/http://astronautix.com/data/93dodstp.pdf), ANSER, 1993.
 * **Project Orion : the true story of the atomic spaceship**,  George Dyson. New York : Henry Holt and Co., 2002. ISBN [0805059857](https://www.worldcat.org/title/project-orion-the-true-story-of-the-atomic-spaceship/oclc/47745832)
 
+![](https://github.com/Hunter-Github/awesome-space-books/raw/master/badges/orion.png)
+
+Above: Orion test article powered by conventional explosives. Source: https://www.youtube.com/watch?v=Q8Sv5y6iHUM
+
 <hr/>
 
 ## Nonfiction and activity space books for children
