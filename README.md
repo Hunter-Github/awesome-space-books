@@ -46,6 +46,8 @@ This list includes links/citations for books and other resources that are deemed
 * **Orbit and Constellation Design and Management**. J.R. Wertz. Microcosm, 2001. ISBN [9781881883074](https://www.worldcat.org/title/orbit-constellation-design-management-spacecraft-orbit-and-attitude-systems/oclc/792963766)
 * **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009. ISBN [9783540729426](https://www.worldcat.org/title/deep-space-flight-and-communications-exploiting-the-sun-as-a-gravitational-lens/oclc/370736749)
 
+Note:  ![NOAA N' mishap](https://github.com/Hunter-Github/awesome-space-books/raw/master/badges/noaa2.jpg) - [this is what happens](http://www.nasa.gov/pdf/65776main_noaa_np_mishap.pdf) when you don't read the books.
+
 ### Ballistics, dynamics, and control
 
 * **Space Vehicle Dynamics and Control**. Bong Wie. AIAA, 1998. ISBN [9781615830442](https://www.worldcat.org/title/space-vehicle-dynamics-and-control/oclc/435623651)
