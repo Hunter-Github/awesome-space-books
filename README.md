@@ -378,9 +378,10 @@ An infographic from Randall Munroe (Copyright XKCD):
 
 ## Where to look for other awesome lists
 
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [The Warren](https://github.com/torchhound/warren)
 
   [1]: http://www.nasa.gov/connect/ebooks/coming_home_detail.html
   [2]: https://web.archive.org/web/20140722111108/http://web.mit.edu/e_peters/Public/Rockets/Rocket_Propulsion_Elements.pdf
