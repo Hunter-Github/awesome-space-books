@@ -207,6 +207,10 @@ Above: Orion test article powered by conventional explosives. Source: https://ww
  * [Engineering Mathematics: YouTube Workbook](https://www.youtube.com/playlist?list=PL13760D87FA88691D)
  * [Alison Foundation Diploma in Mathematics - Science, Technology and Engineering](http://alison.com/courses/Foundation-Diploma-in-Mathematics-Science-Technology-Engineering)
 
+### John E. Draim's satellite constellation patents
+
+4809935, 5582367, 5669585, 5788187, 5845206, 5957409, 5979832, 6102335, 6263188, 6457678, 6487476, 6577864, 6611683, 6678519, 6701126, 6714521, 6795687, 6954613, 4809935, 4854527, 5582367, 5669585, 5788187, 5845206, 5957409, 5979832, 6102335, 6263188, 6457678, 6487476, 6577864, 6611683, 6678519, 6701126, 6714521, 6795687, 6954613
+
 <!-- Mars collection from NASA HQ
 
 
