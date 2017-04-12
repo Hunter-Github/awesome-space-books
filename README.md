@@ -48,7 +48,7 @@ This list includes links/citations for books and other resources that are deemed
 
 ![NOAA N' mishap](https://github.com/Hunter-Github/awesome-space-books/raw/master/badges/noaa1.jpg)
 
-[⇈This⇈ is what happens](http://www.nasa.gov/pdf/65776main_noaa_np_mishap.pdf) when you don't read the books.
+[⇈ This ⇈ is what happens](http://www.nasa.gov/pdf/65776main_noaa_np_mishap.pdf) when you don't read the books.
 
 
 ### Ballistics, dynamics, and control
