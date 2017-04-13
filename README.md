@@ -93,6 +93,7 @@ ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filte
 * **Space Debris: Models and Risk Analysis**. Heinrich Klinkrad. 2006. ISBN [ 	9783540376743](https://www.worldcat.org/title/space-debris-models-and-risk-analysis/oclc/262691812)
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Handbook for limiting orbital debris**. NASA, 2008 (expired in 2013). Still [Online](https://www.hq.nasa.gov/office/codeq/doctree/NHBK871914.pdf).
 * **Spacecraft-Environment Interactions**. Daniel Hastings & Henry Garrett. Cambridge Univ.Press, 1996. ISBN [9780521471282](https://www.worldcat.org/title/spacecraft-environment-interactions/oclc/33405338)
+* ![Online](https://i.imgur.com/BuJHYIv.png) COSPAR [**Planetary Protection Policy**](https://cosparhq.cnes.fr/sites/default/files/ppp_article_linked_to_ppp_webpage.pdf)
 
 ### Reentry
 
