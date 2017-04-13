@@ -211,6 +211,12 @@ Above: Orion test article powered by conventional explosives. Source: https://ww
 
 [4809935](http://www.pat2pdf.org/pat2pdf/foo.pl?number=4809935), [4854527](http://www.pat2pdf.org/pat2pdf/foo.pl?number=4854527), [5582367](http://www.pat2pdf.org/pat2pdf/foo.pl?number=5582367), [5669585](http://www.pat2pdf.org/pat2pdf/foo.pl?number=5669585), [5788187](http://www.pat2pdf.org/pat2pdf/foo.pl?number=5788187), [5845206](http://www.pat2pdf.org/pat2pdf/foo.pl?number=5845206), [5957409](http://www.pat2pdf.org/pat2pdf/foo.pl?number=5957409), [5979832](http://www.pat2pdf.org/pat2pdf/foo.pl?number=5979832), [6102335](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6102335), [6263188](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6263188), [6457678](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6457678), [6487476](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6487476), [6577864](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6577864), [6611683](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6611683), [6678519](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6678519), [6701126](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6701126), [6714521](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6714521), [6795687](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6795687), [6954613](http://www.pat2pdf.org/pat2pdf/foo.pl?number=6954613)
 
+
+### What to do next
+
+* [(Wikipedia) List of aerospace engineering schools](https://en.wikipedia.org/wiki/List_of_aerospace_engineering_schools)
+* [NASA Astronaut selection](https://astronauts.nasa.gov/)
+
 <!-- Mars collection from NASA HQ
 
 
