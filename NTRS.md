@@ -59,7 +59,7 @@ Interesting reports from the [NASA](http://www.nasa.gov/) [NTRS collection](http
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19780016307_1978016307.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19910012837_1991012837.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20000057299_2000073127.pdf
-* http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20000084166_2000118366.pdf
+* [Solar Sail Optimal Orbit Transfers to Synchronous Orbits](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20000084166_2000118366.pdf)
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050137595_2005093394.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050203994_2005206750.pdf
 * http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090017552_2009015456.pdf
