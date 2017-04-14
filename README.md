@@ -382,7 +382,7 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 * ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Pegasus](https://web.archive.org/web/20140702071121/http://www.orbital.com/LaunchSystems/Publications/Pegasus_UsersGuide.pdf) - a historical copy from Web Archive as of 2014-07-02. Merger with ATK did not leave stones unturned.
 * ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Falcon 9](http://www.spacex.com/sites/spacex/files/falcon_9_users_guide_rev_2.0.pdf) (from SpaceX) [old version from NASA](http://decadal.gsfc.nasa.gov/pace-201206mdl/Launch%20Vehicle%20Information/Falcon9UsersGuide_2009.pdf)
 * ![Japan](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Japan-Flag-24.png) Epsilon (a Japanese proto-ICBM)
-* ![Japan](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Japan-Flag-24.png) H3 (a planned Japanese 4t - to - SSO launcher).
+* ![Japan](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/Japan-Flag-24.png) H3 (a planned Japanese 4t - to - SSO launcher with [solid rocket boosters](http://global.jaxa.jp/activity/pr/brochure/files/rocket09.pdf), subsidizing future ICBM conversion potential).
 
 _It should be noted that there are on-line commercial resources with space-related technical information (like the above-mentioned, but not advertised here **L2**). Readers are encouraged to check availability of linked documents (even those accessible via Web Archive) and submit pull requests with permanent links at [archive.is](https://archive.is) to avoid knuckle-headed retroactive cleanup perpetrated by web site owners._
 
