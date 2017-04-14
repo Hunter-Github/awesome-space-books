@@ -50,6 +50,17 @@ This list includes links/citations for books and other resources that are deemed
 
 [⇈ This ⇈ is what happens](http://www.nasa.gov/pdf/65776main_noaa_np_mishap.pdf) when you don't read the books.
 
+... and also this:
+
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Space Shuttle Columbia](https://history.nasa.gov/columbia/CAIB_reportindex.html)
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Apollo 13](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19700076776.pdf)
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Space Shuttle Challenger (Rogers Commission Report)](https://history.nasa.gov/rogersrep/genindex.htm)
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Genesis mission mishap report](https://web.archive.org/web/20060703141406/http://www.nasa.gov/pdf/149414main_Genesis_MIB.pdf)
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Mars Climate Orbiter](http://sunnyday.mit.edu/accidents/MCO_report.pdf)
+* Apollo 1:
+ * [NASA Commission Report](https://www.hq.nasa.gov/office/pao/History/Apollo204/content.html)
+ * [Senate Commission Report](https://web.archive.org/web/20141220043317/http://klabs.org/richcontent/Reports/Failure_Reports/as-204/senate_956/as204_senate_956.pdf)
+
 
 ### Ballistics, dynamics, and control
 
