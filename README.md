@@ -151,6 +151,7 @@ Liquid Rocket Propellants][5]
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Stages to Saturn](http://www.ibiblio.org/apollo/Documents/StagesToSaturn-Bilstein.pdf), Roger E. Bilstein. 1980.
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Taming Liquid Hydrogen: The Centaur Upper Stage Rocket, 1958-2002](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040084080.pdf) (Warning: 320.5 MB PDF!)
 * ![Online](https://i.imgur.com/BuJHYIv.png) [A brief history of the DoD space test program](http://web.archive.org/web/20110419192350/http://astronautix.com/data/93dodstp.pdf), ANSER, 1993.
+* Energiya-Buran: The soviet space-shuttle. Bart Hendrickx, Bert Vis. Springer, 2007. ISBN [9780387698489](https://www.worldcat.org/title/energiya-buran-the-soviet-space-shuttle/oclc/153582339)
 * **Project Orion : the true story of the atomic spaceship**,  George Dyson. New York : Henry Holt and Co., 2002. ISBN [0805059857](https://www.worldcat.org/title/project-orion-the-true-story-of-the-atomic-spaceship/oclc/47745832)
 
 ![](https://github.com/Hunter-Github/awesome-space-books/raw/master/badges/orion.png)
