@@ -7,7 +7,7 @@ A list of space exploration resources (born at https://space.meta.stackexchange.
 
 <!-- ![Paper](https://i.imgur.com/ta5hG2d.png)-->
 
-This list includes links/citations for books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan). If you want 'lighter' reading online while waiting for the books to arrive, go to [Atomic Rockets](http://www.projectrho.com/public_html/rocket/).
+This list includes links/citations for books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan). If you want 'lighter' reading online while waiting for the books to arrive, go to Winchell Chung's  [Atomic Rockets](http://www.projectrho.com/public_html/rocket/) site.
 
 ## License
 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
