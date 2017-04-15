@@ -1,13 +1,13 @@
 # Awesome Space Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Hunter-Github/awesome-space-books)
-A list of space exploration resources (born at https://space.meta.stackexchange.com/q/249/168 before the demise of the SE network).
+A list of space exploration resources (born at https://space.meta.stackexchange.com/q/249 before the unfortunate politization and general decline of the SE network).
 
-The motto of the list is:
+<!-- The motto of the list is:
 
-# _Been there, read that!_
+# _Been there, read that!_ -->
 
 <!-- ![Paper](https://i.imgur.com/ta5hG2d.png)-->
 
-This list includes links/citations for books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan). If you want "lighter" reading online, while waiting for the books to arrive, go to [Atomic Rockets](http://www.projectrho.com/public_html/rocket/).
+This list includes links/citations for books and other resources that are deemed classical in the field of space exploration. Many of the books are offline, try to contact your nearest library to arrange an [ILL](https://en.wikipedia.org/wiki/Interlibrary_loan). If you want 'lighter' reading online while waiting for the books to arrive, go to [Atomic Rockets](http://www.projectrho.com/public_html/rocket/).
 
 ## License
 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
@@ -21,8 +21,6 @@ This list includes links/citations for books and other resources that are deemed
 
 ## Table of contents
 
-<!-- MarkdownTOC  bracket=round autolink=true -->
-
 - [Reference books](#reference-books)
 - [Manned exploration references](#manned-exploration-references)
 - [Model and amateur rocketry](#model-and-amateur-rocketry)
@@ -34,9 +32,6 @@ This list includes links/citations for books and other resources that are deemed
 - [The list of (historical and current) launch vehicle user manuals](#the-list-of-historical-and-current-launch-vehicle-user-manuals)
 - [Where to look for other awesome lists](#where-to-look-for-other-awesome-lists)
 
-<!-- /MarkdownTOC -->
-
-
 ## Reference books
 
 ### Mission analysis and design. Project management
@@ -45,6 +40,8 @@ This list includes links/citations for books and other resources that are deemed
 * **Space Systems Failures**. Harland, Shayler, Lorenz. 2005. ISBN [9780387215198](https://www.worldcat.org/title/space-systems-failures-diesasters-and-rescues-of-satellites-rocket-and-space-probes/oclc/226200132)
 * **Orbit and Constellation Design and Management**. J.R. Wertz. Microcosm, 2001. ISBN [9781881883074](https://www.worldcat.org/title/orbit-constellation-design-management-spacecraft-orbit-and-attitude-systems/oclc/792963766)
 * **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009. ISBN [9783540729426](https://www.worldcat.org/title/deep-space-flight-and-communications-exploiting-the-sun-as-a-gravitational-lens/oclc/370736749)
+
+#### Incident and accident investigation reports
 
 ![NOAA N' mishap](https://github.com/Hunter-Github/awesome-space-books/raw/master/badges/noaa1.jpg)
 
