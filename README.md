@@ -60,6 +60,7 @@ This list includes links/citations for books and other resources that are deemed
     * [NASA Commission Report](https://www.hq.nasa.gov/office/pao/History/Apollo204/content.html)
     * [Senate Commission Report](https://web.archive.org/web/20141220043317/http://klabs.org/richcontent/Reports/Failure_Reports/as-204/senate_956/as204_senate_956.pdf)
 
+* ![Online](https://i.imgur.com/BuJHYIv.png)  Fault Tree Handbook with Aerospace Applications. Vesely et al., 2002. Wayback version is [here](https://web.archive.org/web/20170121001532/https://www.hq.nasa.gov/office/codeq/doctree/fthb.pdf)
 
 ### Ballistics, dynamics, and control
 
