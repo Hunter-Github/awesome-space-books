@@ -40,6 +40,8 @@ This list includes links/citations for books and other resources that are deemed
 * **Space Systems Failures**. Harland, Shayler, Lorenz. 2005. ISBN [9780387215198](https://www.worldcat.org/title/space-systems-failures-diesasters-and-rescues-of-satellites-rocket-and-space-probes/oclc/226200132)
 * **Orbit and Constellation Design and Management**. J.R. Wertz. Microcosm, 2001. ISBN [9781881883074](https://www.worldcat.org/title/orbit-constellation-design-management-spacecraft-orbit-and-attitude-systems/oclc/792963766)
 * **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009. ISBN [9783540729426](https://www.worldcat.org/title/deep-space-flight-and-communications-exploiting-the-sun-as-a-gravitational-lens/oclc/370736749)
+* ![Online](https://i.imgur.com/BuJHYIv.png) An old and unmaintained version of [NASA Cost Estimation web site](https://www.jsc.nasa.gov/bu2/index.html)
+   * There's also _Handbook of Cost Engineering and Design of Space Transportation_ (Koelle, 2013). Please take NASA's experience with a grain of salt, though (Faster, better, cheaper - right?).
 
 #### Incident and accident investigation reports
 
