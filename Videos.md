@@ -10,3 +10,7 @@ Videos that are here to stay.
 ## Project Orion
 
 * [Test footage (conventional explosives)](https://www.youtube.com/watch?v=Q8Sv5y6iHUM)
+
+## Space Shuttle
+
+* [The best footage from **those** 6 seconds before the SRBs ignite](https://www.youtube.com/watch?v=vFwqZ4qAUkE)
