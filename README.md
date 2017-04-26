@@ -208,6 +208,8 @@ Above: Orion test article powered by conventional explosives. Source: https://ww
 * [Videos](https://github.com/Hunter-Github/awesome-space-books/blob/master/Videos.md)
 * [Alcubierre drive](https://github.com/Hunter-Github/awesome-space-books/blob/master/Alcubierre.md)
 * [EM-Drive](https://github.com/Hunter-Github/awesome-space-books/blob/master/EM-Drive.md)
+* [Launches, ephemerides, observations](https://github.com/Hunter-Github/awesome-space-books/blob/master/events.md)
+
 
 ### Online courses and textbooks (free of charge)
 
