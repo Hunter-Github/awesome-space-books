@@ -14,3 +14,7 @@ Videos that are here to stay.
 ## Space Shuttle
 
 * [The best footage from **those** 6 seconds before the SRBs ignite](https://www.youtube.com/watch?v=vFwqZ4qAUkE)
+
+## Gravitational solar lensing
+
+* [Slava Turyshev's lecture](https://www.youtube.com/watch?v=eEZ6zYZ6lDQ)
