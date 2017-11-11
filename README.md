@@ -128,6 +128,7 @@ ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filte
 * **Space Psychology and Psychiatry**. Nick Kanas, Dietrich Manzey. Springer/Microcosm. 2008.
 * **Fundamentals of Space Medicine**.  Gilles Clément.Springer, 2005.
 * ![Online](https://i.imgur.com/BuJHYIv.png) [**NASA Human-rating standards**](http://nodis3.gsfc.nasa.gov/npg_img/N_PR_8705_002B_/N_PR_8705_002B_.pdf) (2012 revision, valid through 2016).
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Space Settlements - a design study](http://www.xmission.com/~sferrin/SP-413_Space_Settlements_-_A_Design_Study.pdf) (1977).
 
 <hr/>
 
