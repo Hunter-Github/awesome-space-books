@@ -37,6 +37,7 @@ This list includes links/citations for books and other resources that are deemed
 ### Mission analysis and design. Project management
 
 * **Space Mission Analysis and Design**. W. J. Larson and J. R. Wertz (Editors). Microcosm Press, 1999. ISBN [9780792359012](http://www.worldcat.org/title/space-mission-analysis-and-design/oclc/42703668&referer=brief_results)
+* **Space Mission Engineering: The New SMAD**. James R. Wertz (Editor).
 * **Space Systems Failures**. Harland, Shayler, Lorenz. 2005. ISBN [9780387215198](https://www.worldcat.org/title/space-systems-failures-diesasters-and-rescues-of-satellites-rocket-and-space-probes/oclc/226200132)
 * **Orbit and Constellation Design and Management**. J.R. Wertz. Microcosm, 2001. ISBN [9781881883074](https://www.worldcat.org/title/orbit-constellation-design-management-spacecraft-orbit-and-attitude-systems/oclc/792963766)
 * **Deep Space Flight and Communications: Exploiting the Sun as a Gravitational Lens**. Claudio Maccone. Springer, 2009. ISBN [9783540729426](https://www.worldcat.org/title/deep-space-flight-and-communications-exploiting-the-sun-as-a-gravitational-lens/oclc/370736749)
@@ -129,6 +130,7 @@ ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filte
 * **Fundamentals of Space Medicine**.  Gilles Clément.Springer, 2005.
 * ![Online](https://i.imgur.com/BuJHYIv.png) [**NASA Human-rating standards**](http://nodis3.gsfc.nasa.gov/npg_img/N_PR_8705_002B_/N_PR_8705_002B_.pdf) (2012 revision, valid through 2016).
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Space Settlements - a design study](http://www.xmission.com/~sferrin/SP-413_Space_Settlements_-_A_Design_Study.pdf) (1977).
+* ![Online](https://i.imgur.com/BuJHYIv.png) [NASA Johnson Space Center Flight Data File page](https://www.nasa.gov/centers/johnson/news/flightdatafiles/index.html): Links to .pdf copies of Shuttle and Station crew procedures and training manuals.
 
 <hr/>
 
