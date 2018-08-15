@@ -82,7 +82,7 @@ ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filte
 * **Modern Engineering for Design of Liquid-Propellant Rocket Engines**. Dieter K. Huzel and David H. Huang. [AIAA, 1992](https://www.worldcat.org/title/modern-engineering-for-design-of-liquid-propellant-rocket-engines-volume-147/oclc/669758825).
 * **Mechanics and Thermodynamics of Propulsion**. P. Hill, C. Peterson. Addison-Wesley, 1992
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Rocket Propulsion Elements, 7th Ed.**. G.P. Sutton & O. Biblarz. John Wiley & Sons, 2001 [Free PDF from MIT][2]  
-* **Liquid rocket combustion instability**. NASA, 1972. SP-194. Harrje D.T., Reardon F.H.
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Liquid rocket combustion instability**. NASA, 1972. SP-194. Harrje D.T., Reardon F.H. [Free PDF from NTRS via WebArchive](https://web.archive.org/web/20150217080058/https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720026079.pdf)
 * **Liquid rocket engine combustion instability**. Progress in Aeronautics and Astronautics, vol. 169. AIAA; 1995. Yang V., Anderson W. (eds.)
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Fundamentals of Electric Propulsion: Ion and Hall Thrusters**.  Dan M. Goebel, Ira Katz. [Free PDF from NASA](http://descanso.jpl.nasa.gov/SciTechBook/series1/Goebel__cmprsd_opt.pdf)
 
@@ -168,6 +168,8 @@ Liquid Rocket Propellants][5]
 * ![Online](https://i.imgur.com/BuJHYIv.png) [A brief history of the DoD space test program](http://web.archive.org/web/20110419192350/http://astronautix.com/data/93dodstp.pdf), ANSER, 1993.
 * Energiya-Buran: The soviet space shuttle. Bart Hendrickx, Bert Vis. Springer, 2007. ISBN [9780387698489](https://www.worldcat.org/title/energiya-buran-the-soviet-space-shuttle/oclc/153582339)
 * **Project Orion : the true story of the atomic spaceship**,  George Dyson. New York : Henry Holt and Co., 2002. ISBN [0805059857](https://www.worldcat.org/title/project-orion-the-true-story-of-the-atomic-spaceship/oclc/47745832)
+* ![Online](https://i.imgur.com/BuJHYIv.png) **From Sputnik to space ports in 55 pages: The History of Spaceflight**. Available [here (PDF)](http://www.americanbar.org/content/dam/aba/administrative/science_technology/ch2historyofspaceflight.authcheckdam.pdf).
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Press Information: Space Shuttle Transportation System March 1982**. A highly detailed reference on Space Shuttle systems from Rockwell International, one year into the flight program. [WebArchive PDF version](https://archive.org/download/PressInformationSpaceShuttleTransportationSystemMarch1982/Press_Information_Space_Shuttle_Transportation_System_March_1982.pdf). NASA has a full HTML version of the 1988 revision online [here](https://science.ksc.nasa.gov/shuttle/technology/sts-newsref/stsref-toc.html) but it omits all the illustrations.
 
 ![](https://github.com/Hunter-Github/awesome-space-books/raw/master/badges/orion.png)
 
