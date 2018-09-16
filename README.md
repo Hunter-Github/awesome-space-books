@@ -117,6 +117,7 @@ ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filte
 ### Operations
 
 * **Spacecraft Operations**. Thomas Uhlig, Florian Sellmaier, Michael Schmidhuber. Springer, 2014. ISBN [9783709118023](https://www.worldcat.org/title/spacecraft-operations/oclc/889584467)
+* ![Online](https://i.imgur.com/BuJHYIv.png) **Safety Standard for Oxygen and Oxygen Systems**. NASA, 1996. Available in [pdf](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19960021046.pdf) (CAUTION: NTRS - files are prone to disappearance - use Wayback Machine if 404'ed).
 
 <hr/>
 
