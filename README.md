@@ -13,7 +13,9 @@ This list includes links/citations for books and other resources that are deemed
 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Contributors
-[The full list of contributors at Space Exploration StackExchange](https://meta.space.stackexchange.com/posts/250/revisions)
+[The full list of contributors at Space Exploration StackExchange](https://space.meta.stackexchange.com/posts/250/revisions)
+
+[Guidelines](https://github.com/Hunter-Github/StBenedict) (h/t to D.Richard Hipp)
 
 ## GitHub lists on space sciences and technology
 
