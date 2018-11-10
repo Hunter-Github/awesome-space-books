@@ -18,6 +18,7 @@ This list includes links/citations for books and other resources that are deemed
 ## GitHub lists on space sciences and technology
 
 * [awesome-space](https://github.com/elburz/awesome-space) - links to online resources.
+* [aero-structures](https://github.com/specifics/aero-structures) - some useful aerospace engineering links.
 
 ## Table of contents
 
