@@ -212,6 +212,10 @@ Above: Orion test article powered by conventional explosives. Source: https://ww
 
 ## Miscellaneous
 
+### Lists of online books/reports
+
+*  ![Online](https://i.imgur.com/BuJHYIv.png) Downloadable PDFs from the National Research Council: https://www.nap.edu/topic/420/space-and-aeronautics/space-systems-and-hardware
+
 ### Lists in this repository
 
 * [NASA NTRS papers of interest](https://github.com/Hunter-Github/awesome-space-books/blob/master/NTRS.md)
