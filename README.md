@@ -89,6 +89,7 @@ ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filte
 * **Liquid rocket engine combustion instability**. Progress in Aeronautics and Astronautics, vol. 169. AIAA; 1995. Yang V., Anderson W. (eds.)
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Fundamentals of Electric Propulsion: Ion and Hall Thrusters**.  Dan M. Goebel, Ira Katz. [Free PDF from NASA](http://descanso.jpl.nasa.gov/SciTechBook/series1/Goebel__cmprsd_opt.pdf)
 * ![Online (mostly)](https://i.imgur.com/BuJHYIv.png) [An Introduction to Rocket Missile Propulsion](https://babel.hathitrust.org/cgi/pt?id=mdp.39015002938747&view=1up&seq=7) Rocketdyne Technical Training publication that covers basic rocket equations in a simplified manner. 'Annoying page-at-a-time viewer but a valuable resource.'
+* ![Online](https://i.imgur.com/BuJHYIv.png) [**Glossary of Terms Used in Chemical Propulsion Systems**](https://web.archive.org/web/20170504115637/https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19800008876.pdf) Defines most commonly used words used in discussing chemical rocket systems. (Link changed to Wayback version for safety against possible NTRS purges)
 
 
 ### Thermal control
