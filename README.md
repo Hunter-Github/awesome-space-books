@@ -176,6 +176,8 @@ Liquid Rocket Propellants][5]
 * **Project Orion : the true story of the atomic spaceship**,  George Dyson. New York : Henry Holt and Co., 2002. ISBN [0805059857](https://www.worldcat.org/title/project-orion-the-true-story-of-the-atomic-spaceship/oclc/47745832)
 * ![Online](https://i.imgur.com/BuJHYIv.png) **From Sputnik to space ports in 55 pages: The History of Spaceflight**. Available [here (PDF)](http://www.americanbar.org/content/dam/aba/administrative/science_technology/ch2historyofspaceflight.authcheckdam.pdf).
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Press Information: Space Shuttle Transportation System March 1982**. A highly detailed reference on Space Shuttle systems from Rockwell International, one year into the flight program. [WebArchive PDF version](https://archive.org/download/PressInformationSpaceShuttleTransportationSystemMarch1982/Press_Information_Space_Shuttle_Transportation_System_March_1982.pdf). NASA has a full HTML version of the 1988 revision online [here](https://science.ksc.nasa.gov/shuttle/technology/sts-newsref/stsref-toc.html) but it omits all the illustrations.
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Shuttle Operational Data Book Volume IV (partial)](https://science.ksc.nasa.gov/mirrors/images/images/pao/STS-PDF/) Part of the "crash book" issued to rescue personnel in the early parts of the shuttle program, contains highly detailed drawings of the Orbiter exterior and some interior systems. Sadly incomplete. (h/t OrganicMarble)
+
 
 ![](https://github.com/Hunter-Github/awesome-space-books/raw/master/badges/orion.png)
 
@@ -385,8 +387,6 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 ## The list of (historical and current) launch vehicle user manuals
 
 * ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Saturn V](http://history.nasa.gov/ap08fj/pdf/sa503-flightmanual.pdf) (SA-503 **flight** manual)
-* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) Space Shuttle:
- * [Shuttle Operational Data Book Volume IV (partial)](https://science.ksc.nasa.gov/mirrors/images/images/pao/STS-PDF/) Part of the "crash book" issued to rescue personnel in the early parts of the shuttle program, contains highly detailed drawings of the Orbiter exterior and some interior systems. Sadly incomplete. (h/t OrganicMarble)
 * SU [Energiya]
 * ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Delta 2](http://www.ulalaunch.com/uploads/docs/DeltaIIPayloadPlannersGuide2007.pdf)
 * ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Delta 4](http://www.ulalaunch.com/uploads/docs/Launch_Vehicles/Delta_IV_Users_Guide_June_2013.pdf)
