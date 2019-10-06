@@ -385,6 +385,8 @@ Zubrin, Robert, and Wagner, Richard. The Case for Mars: The Plan to Settle the R
 ## The list of (historical and current) launch vehicle user manuals
 
 * ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Saturn V](http://history.nasa.gov/ap08fj/pdf/sa503-flightmanual.pdf) (SA-503 **flight** manual)
+* ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) Space Shuttle:
+ * [Shuttle Operational Data Book Volume IV (partial)](https://science.ksc.nasa.gov/mirrors/images/images/pao/STS-PDF/) Part of the "crash book" issued to rescue personnel in the early parts of the shuttle program, contains highly detailed drawings of the Orbiter exterior and some interior systems. Sadly incomplete. (h/t OrganicMarble)
 * SU [Energiya]
 * ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Delta 2](http://www.ulalaunch.com/uploads/docs/DeltaIIPayloadPlannersGuide2007.pdf)
 * ![USA](https://github.com/Hunter-Github/awesome-space-books/blob/master/flags/United-States-Flag-24.png) [Delta 4](http://www.ulalaunch.com/uploads/docs/Launch_Vehicles/Delta_IV_Users_Guide_June_2013.pdf)
