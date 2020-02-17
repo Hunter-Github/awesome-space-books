@@ -137,6 +137,7 @@ ISBN [9781600867200](https://www.worldcat.org/title/fundamentals-of-kalman-filte
 * ![Online](https://i.imgur.com/BuJHYIv.png) [**NASA Human-rating standards**](http://nodis3.gsfc.nasa.gov/npg_img/N_PR_8705_002B_/N_PR_8705_002B_.pdf) (2012 revision, valid through 2016).
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Space Settlements - a design study](http://www.xmission.com/~sferrin/SP-413_Space_Settlements_-_A_Design_Study.pdf) (1977).
 * ![Online](https://i.imgur.com/BuJHYIv.png) [NASA Johnson Space Center Flight Data File page](https://www.nasa.gov/centers/johnson/news/flightdatafiles/index.html): Links to .pdf copies of Shuttle and Station crew procedures and training manuals.
+* ![Online](https://i.imgur.com/BuJHYIv.png) [**The ISS: Operating an Outpost in the New Frontier**](https://www.nasa.gov/sites/default/files/atoms/files/iss-operating_an_outpost-tagged.pdf): Contains good descriptions and schematics of ISS systems, as well as descriptions of ISS operations and training. Written from a flight control viewpoint.
 
 <hr/>
 
