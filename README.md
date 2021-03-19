@@ -167,7 +167,7 @@ Liquid Rocket Propellants][5]
 * ![Online](https://i.imgur.com/BuJHYIv.png) Boris Tchertok. Rockets and People. Vol.1: [part 1](http://history.nasa.gov/SP-4110/vol1-1.pdf), [part 2](http://history.nasa.gov/SP-4110/vol1-2.pdf), [part 3](http://history.nasa.gov/SP-4110/vol1-3.pdf). [Vol.2](http://history.nasa.gov/SP-4110/vol2.pdf) [Vol.3](http://history.nasa.gov/SP-4110/vol3.pdf) [Vol.4](http://history.nasa.gov/SP-4110/vol4.pdf)
 * ![Online](https://i.imgur.com/BuJHYIv.png) NASA History Office books ([online](http://www.hq.nasa.gov/office/pao/History/series95.html))
 * ![Online](https://i.imgur.com/BuJHYIv.png) Carey McCleskey. [Space Shuttle Operations and Infrastructure: A Systems Analysis of Design Root Causes and Effects](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050172128_2005171687.pdf) (2005).
-* ![Online](https://i.imgur.com/BuJHYIv.png) [Space Shuttle Missions Summary](http://www.jsc.nasa.gov/history/reference/TM-2011-216142.pdf) (NASA, 2011).
+* ![Online](https://i.imgur.com/BuJHYIv.png) [Space Shuttle Missions Summary](http://www.jsc.nasa.gov/history/reference/TM-2011-216142.pdf) (NASA, 2011) [The same file at NTRS](https://ntrs.nasa.gov/api/citations/20110001406/downloads/20110001406.pdf).
 * Tom Wolfe. The Right Stuff. 1979.
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Apollo manuals](http://www.ibiblio.org/apollo/links.html) from Ron Burkey.
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Stages to Saturn](http://www.ibiblio.org/apollo/Documents/StagesToSaturn-Bilstein.pdf), Roger E. Bilstein. 1980.
@@ -178,6 +178,8 @@ Liquid Rocket Propellants][5]
 * ![Online](https://i.imgur.com/BuJHYIv.png) **From Sputnik to space ports in 55 pages: The History of Spaceflight**. Available [here (PDF)](http://www.americanbar.org/content/dam/aba/administrative/science_technology/ch2historyofspaceflight.authcheckdam.pdf).
 * ![Online](https://i.imgur.com/BuJHYIv.png) **Press Information: Space Shuttle Transportation System March 1982**. A highly detailed reference on Space Shuttle systems from Rockwell International, one year into the flight program. [WebArchive PDF version](https://archive.org/download/PressInformationSpaceShuttleTransportationSystemMarch1982/Press_Information_Space_Shuttle_Transportation_System_March_1982.pdf). NASA has a full HTML version of the 1988 revision online [here](https://science.ksc.nasa.gov/shuttle/technology/sts-newsref/stsref-toc.html) but it omits all the illustrations.
 * ![Online](https://i.imgur.com/BuJHYIv.png) [Shuttle Operational Data Book Volume IV (partial)](https://science.ksc.nasa.gov/mirrors/images/images/pao/STS-PDF/) Part of the "crash book" issued to rescue personnel in the early parts of the shuttle program, contains highly detailed drawings of the Orbiter exterior and some interior systems. Sadly incomplete. (h/t OrganicMarble)
+* ![Online](https://i.imgur.com/BuJHYIv.png) **[Space Shuttle Recordation](https://www.nasa.gov/agency/crm/shuttle/narrative.html
+)** : Historic American Engineering Records documentation of the Space Transportation System. Comprehensive. (h/t OrganicMarble)
 
 
 ![](https://github.com/Hunter-Github/awesome-space-books/raw/master/badges/orion.png)
